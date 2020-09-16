@@ -31,8 +31,8 @@ math = false
 Opinion polls are an increasingly central part of election campaigns. My work focuses on the aggregation of opinion polls in Ireland and the Netherlands.
 
 ## Peilingwijzer 
-The Dutch public broadcaster NOS [publishes](http://www.peilingwijzer.nl) my aggregation of Dutch national opinion polls, called ['Peilingwijzer' (Polling Indicator)](http://peilingwijzer.tomlouwerse.nl/). 
+[Peilingwijzer]((http://peilingwijzer.tomlouwerse.nl/)) combines Dutch national opinion polls. I started aggregating Dutch opinion polls in 2011, based on work by Simon Jackman. Since 2012 the Dutch public broadcaster NOS has regularly published the Peilingwijzer. The advice and help of my colleague Joop van Holsteyn has been instrumental in developping this project. 
 
 ## Irish Polling Indicator
-My [Irish Polling Indicator](http://www.pollingindicator.com/) is published regularly on politicalreform.ie.
+The [Irish Polling Indicator](http://www.pollingindicator.com/) is published regularly. I started this project in 2014. In 2020, [Stefan Müller](https://muellerstefan.net/) (University College Dublin) joined the project.
 
