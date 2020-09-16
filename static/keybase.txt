@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tomlouwerse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.tomlouwerse.nl
+  * I am tomlouwerse (https://keybase.io/tomlouwerse) on keybase.
+  * I have a public key ASAU7gLXg3ZywoclcaFwkeMTyocd2QJtFBm6C4R-nPSwego
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206c8b2f5a04387e3e19c0fff80d6f0b5d4d63a5efb83701d05430f5e93ce6e5640a",
+      "host": "keybase.io",
+      "kid": "012014ee02d7837672c2872571a17091e313ca871dd9026d1419ba0b847e9cf4b07a0a",
+      "uid": "78dd676eb785e63bc5a1a94df4afab19",
+      "username": "tomlouwerse"
+    },
+    "merkle_root": {
+      "ctime": 1546635626,
+      "hash": "1e9480a4a09bdf7ef902b62b6cfd01f7c37b344c4fd5d5708389478ca442f3f5cf32c98bbc1ecb159676cbfb3e01993312115efb381d2abd857d282536c4ad6e",
+      "hash_meta": "58d86f35c49642ff3bab6dcce574f5f61ab199fac7dbdbabebe28292a0ef1794",
+      "seqno": 4233478
+    },
+    "service": {
+      "entropy": "vb7M+t3Ac2RkX7BwmCDo94hP",
+      "hostname": "www.tomlouwerse.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.3"
+  },
+  "ctime": 1546635643,
+  "expire_in": 504576000,
+  "prev": "ac3799c3e21aeded82c8fafde8c97d3ce8ac3c1501f9c9277553d5f287397441",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFO4C14N2csKHJXGhcJHjE8qHHdkCbRQZuguEfpz0sHoKp3BheWxvYWTESpcCD8QgrDeZw+Ia7e2CyPr96Ml9POisPBUB+ckndVPV8oc5dEHEIP9Pgc6eFuOaSNS67CcZukXH4LQjiINoGKHPgPT6CTWYAgHCo3NpZ8RABBUN1PphtRhRPeFJN18cDjcg6dTvxGCrus25u+RzTgf9kKIOi2fV29i+GExU+4lzZnTHuoLIenqHr047YvhlD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN1w5Z/XyJNoUo0PpGI3ymC7tUFmjVgKaSoY/OjRPkHZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomlouwerse
+
+==================================================================
