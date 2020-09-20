@@ -15,6 +15,8 @@ Media appearances and mentions:
 
 **2020**
 
+* Aidan Regan (20 September 2020) [Aidan Regan: Why Fianna Fáil must turn to the left to survive](https://www.businesspost.ie/ireland/aidan-regan-why-fianna-fail-must-turn-to-the-left-to-survive-bddccde9?utm_campaign=article&utm_source=twitter&utm_medium=web), Sunday Business Post.
+* NOS (15 September 2020) [Peilingwijzer: VVD blijft veruit grootste, PVV weer in de lift ](https://nos.nl/artikel/2348317-peilingwijzer-vvd-blijft-veruit-grootste-pvv-weer-in-de-lift.html)
 * Jansen, Jan Pieter (9 July 2020) [Coalitiepartijen onder de loep: VVD op winst, CDA en D66 ten dode opgeschreven?](https://www.hpdetijd.nl/2020-07-09/coalitiepartijen-onder-de-loep-vvd-op-winst-cda-en-d66-ten-dode-opgeschreven/?share_code=SkcW3Ij1TBXr), HP/De Tijd.
 * NOS (8 July 2020) [Peilingwijzer: VVD zakt iets terug na 'coronapiek', D66 en CDA winnen zetels terug](https://nos.nl/artikel/2340000-peilingwijzer-vvd-zakt-iets-terug-na-coronapiek-d66-en-cda-winnen-zetels-terug.html)
 * De Stemming van Vullings en Van der Wulp (3 July 2020) [#40 - Hoe gaat politiek Den Haag het reces in? (S02)](https://www.nporadio1.nl/podcasts/de-stemming-van-vullings-en-van-der-wulp/22055-40-hoe-gaat-politiek-den-haag-het-reces-in-s02) (from 41:25)
