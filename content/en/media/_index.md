@@ -14,7 +14,7 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 **2020**
-
+* Van Hal, George (25 September 2020) [Biden of toch weer Trump: klopt de voorspelling van de Amerikaanse peilingbureaus ditmaal wél?](https://www.volkskrant.nl/wetenschap/biden-of-toch-weer-trump-klopt-de-voorspelling-van-de-amerikaanse-peilingbureaus-ditmaal-wel~b2d51836/), *De Volkskrant*.
 * Aidan Regan (20 September 2020) [Aidan Regan: Why Fianna Fáil must turn to the left to survive](https://www.businesspost.ie/ireland/aidan-regan-why-fianna-fail-must-turn-to-the-left-to-survive-bddccde9?utm_campaign=article&utm_source=twitter&utm_medium=web), Sunday Business Post.
 * NOS (15 September 2020) [Peilingwijzer: VVD blijft veruit grootste, PVV weer in de lift ](https://nos.nl/artikel/2348317-peilingwijzer-vvd-blijft-veruit-grootste-pvv-weer-in-de-lift.html)
 * Jansen, Jan Pieter (9 July 2020) [Coalitiepartijen onder de loep: VVD op winst, CDA en D66 ten dode opgeschreven?](https://www.hpdetijd.nl/2020-07-09/coalitiepartijen-onder-de-loep-vvd-op-winst-cda-en-d66-ten-dode-opgeschreven/?share_code=SkcW3Ij1TBXr), HP/De Tijd.

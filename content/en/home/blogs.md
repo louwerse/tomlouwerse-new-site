@@ -51,6 +51,6 @@ weight = 65
 
 +++
 
-I am a regular contributer to Stuk Rood Vlees, a Dutch-language political science weblog. Please find [an overview of my contributions here](http://stukroodvlees.nl/author/tom-louwerse/). Before April 2013, my blogs [were published here](http://blog.tomlouwerse.nl/).
+From time to time, I publish blogs at Stuk Rood Vlees, a Dutch-language political science weblog. Please find [an overview of my contributions here](http://stukroodvlees.nl/author/tom-louwerse/). Before April 2013, my blogs [were published here](http://blog.tomlouwerse.nl/).
 
 A list of other recent popular publications and blogs is [available here](/blogs).
