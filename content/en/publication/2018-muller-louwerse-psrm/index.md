@@ -1,11 +1,11 @@
 +++
 summary = "Does government party support decline in a monotonic fashion throughout the legislative cycle or do we observe a u-shaped “electoral cycle effect”? Moving beyond the study of midterm election results, this is the first comparative study to assess the cyclical pulse of government party support in parliamentary democracies based on voting intention polls from 171 cycles in 22 countries."
 abstract = "Does government party support decline in a monotonic fashion throughout the legislative cycle or do we observe a u-shaped “electoral cycle effect”? Moving beyond the study of midterm election results, this is the first comparative study to assess the cyclical pulse of government party support in parliamentary democracies based on voting intention polls from 171 cycles in 22 countries. On average, government parties lose support during the first half of the electoral cycle, but at most partially recover from their initial losses. Under single-party government and when prime ministers control cabinet dissolution, support tends to follow the previously assumed u-shaped pattern more strongly. Finally, we find that government parties hardly recover from early losses since the 2000s."
-authors = ["Stefan Müller", "Tom Louwerse"]
-date = "2018-10-17"
+authors = ["Stefan Müller", "admin"]
+date = "2020-10-20"
 
 math = false
-publication = "Political Science Research and Methods"
+publication = "*Political Science Research and Methods*, 8(4): 795-802"
 title = "The electoral cycle effect in parliamentary democracies"
 selected=true
 doi = "10.1017/psrm.2018.47"
@@ -19,5 +19,7 @@ links = [{name = "Supplementary Material", url = "https://www.cambridge.org/core
 publication_types = ["2"]
 
 +++
+
+This research note was first published online on 16 October 2018.
 
 ### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i>
