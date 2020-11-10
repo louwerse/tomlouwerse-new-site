@@ -14,6 +14,9 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 **2020**
+* Nagtzaam, Pepijn (6 November 2020) [Zaten de peilingen er 'weer' naast, of snappen we niet hoe we ze moeten gebruiken? ](https://nos.nl/nieuwsuur/collectie/13849/artikel/2355492-zaten-de-peilingen-er-weer-naast-of-snappen-we-niet-hoe-we-ze-moeten-gebruiken), *Nieuwsuur*.
+* Valkeman, André (2 November 2020) [Regionale politici willen op campagne maar hoe doe je dat in coronatijd? Hier de antwoorden](https://www.destentor.nl/deventer/regionale-politici-willen-op-campagne-maar-hoe-doe-je-dat-in-coronatijd-hier-de-antwoorden~a1c985e0/?referrer=https%3A%2F%2Fnews.google.com%2F), *De Stentor*.
+* NOS (28 October 2020) [Peilingwijzer: VVD houdt straatlengte voorsprong, Forum zakt verder weg ](https://nos.nl/artikel/2354243-peilingwijzer-vvd-houdt-straatlengte-voorsprong-forum-zakt-verder-weg.html)
 * Van Hal, George (25 September 2020) [Biden of toch weer Trump: klopt de voorspelling van de Amerikaanse peilingbureaus ditmaal wél?](https://www.volkskrant.nl/wetenschap/biden-of-toch-weer-trump-klopt-de-voorspelling-van-de-amerikaanse-peilingbureaus-ditmaal-wel~b2d51836/), *De Volkskrant*.
 * Aidan Regan (20 September 2020) [Aidan Regan: Why Fianna Fáil must turn to the left to survive](https://www.businesspost.ie/ireland/aidan-regan-why-fianna-fail-must-turn-to-the-left-to-survive-bddccde9?utm_campaign=article&utm_source=twitter&utm_medium=web), Sunday Business Post.
 * NOS (15 September 2020) [Peilingwijzer: VVD blijft veruit grootste, PVV weer in de lift ](https://nos.nl/artikel/2348317-peilingwijzer-vvd-blijft-veruit-grootste-pvv-weer-in-de-lift.html)
