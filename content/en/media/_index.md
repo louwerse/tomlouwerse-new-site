@@ -14,6 +14,9 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 **2020**
+* Lievisse Adriaanse, Mark (19 December 2020) [Eerst overmoedig, toen onmachtig](https://www.nrc.nl/nieuws/2020/12/19/eerst-overmoedig-toen-onmachtig-a4024502), *NRC Handelsblad*.
+* Knoop, Bas (7 December 2020) [Hoe het collectieve geheugen van de Tweede Kamer steeds verder wordt aangetast](https://fd.nl/achtergrond/1366344/hoe-het-collectieve-geheugen-van-de-tweede-kamer-wordt-aangetast), *Financieel Dagblad*.
+* *Het Parool* (29 November 2020) [FvD wil bindend referendum over leiderschap Baudet ](https://www.parool.nl/nederland/fvd-wil-bindend-referendum-over-leiderschap-baudet~b7442a82/)
 * Nagtzaam, Pepijn (6 November 2020) [Zaten de peilingen er 'weer' naast, of snappen we niet hoe we ze moeten gebruiken? ](https://nos.nl/nieuwsuur/collectie/13849/artikel/2355492-zaten-de-peilingen-er-weer-naast-of-snappen-we-niet-hoe-we-ze-moeten-gebruiken), *Nieuwsuur*.
 * Valkeman, André (2 November 2020) [Regionale politici willen op campagne maar hoe doe je dat in coronatijd? Hier de antwoorden](https://www.destentor.nl/deventer/regionale-politici-willen-op-campagne-maar-hoe-doe-je-dat-in-coronatijd-hier-de-antwoorden~a1c985e0/?referrer=https%3A%2F%2Fnews.google.com%2F), *De Stentor*.
 * NOS (28 October 2020) [Peilingwijzer: VVD houdt straatlengte voorsprong, Forum zakt verder weg ](https://nos.nl/artikel/2354243-peilingwijzer-vvd-houdt-straatlengte-voorsprong-forum-zakt-verder-weg.html)
