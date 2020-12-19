@@ -9,7 +9,7 @@ title = "Estimating Uncertainty in Party Policy Positions Using the Confrontatio
 doi = "10.1017/psrm.2015.32"
 url_code = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UYZMLG"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UYZMLG"
-url_pdf = ""
+url_pdf = "https://openaccess.leidenuniv.nl/bitstream/handle/1887/78740/Louwerse_Pellikaan_2018_T.pdf?sequence=1"
 projects= []
 url_slides = ""
 url_video = ""
