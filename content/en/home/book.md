@@ -46,7 +46,7 @@ hero_media = "2020_gpn.jpg"
   icon = "book"
   
 [cta_alt]
-  url = "http://www.worldcat.org/oclc/1153998465"
+  url = "http://www.worldcat.org/oclc/1153975182"
   label = "Loan from your library"
 
 # Note. An optional note to show underneath the links.

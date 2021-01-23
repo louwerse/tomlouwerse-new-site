@@ -13,6 +13,11 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
+**2021**
+* Valk, Guus (17 January 2021) [‘Geen openheid, dat is een patroon bij Mark Rutte’](https://www.nrc.nl/nieuws/2021/01/17/geen-openheid-dat-is-patroon-bij-rutte-a4027958), *NRC Handelsblad*.
+* NOS (15 January 2021) [Peilingwijzer: PvdA viel terug voor vertrek Asscher, JA21 haalt zetel ](https://nos.nl/artikel/2364508-peilingwijzer-pvda-viel-terug-voor-vertrek-asscher-ja21-haalt-zetel.html).
+* Sloot, Eduard en Gerard Beverdam (14 January 2021) ['Na moord Fortuyn gingen verkiezingen door'](https://www.nd.nl/nieuws/politiek/1013202/-lsquo-na-moord-fortuyn-gingen-verkiezingen-door), *Nederlands Dagblad*, p. 2.
+
 **2020**
 * Lievisse Adriaanse, Mark (19 December 2020) [Eerst overmoedig, toen onmachtig](https://www.nrc.nl/nieuws/2020/12/19/eerst-overmoedig-toen-onmachtig-a4024502), *NRC Handelsblad*.
 * Knoop, Bas (7 December 2020) [Hoe het collectieve geheugen van de Tweede Kamer steeds verder wordt aangetast](https://fd.nl/achtergrond/1366344/hoe-het-collectieve-geheugen-van-de-tweede-kamer-wordt-aangetast), *Financieel Dagblad*.
@@ -37,7 +42,7 @@ Media appearances and mentions:
 
 * NOS (27 November 2019) [Peilingwijzer: VVD verliest terrein, maar blijft verreweg de grootste](https://nos.nl/artikel/2312192-peilingwijzer-vvd-verliest-terrein-maar-blijft-verreweg-de-grootste.html)
 * NOS (26 October 2019) [Halverwege de rit bekennen coalitie en oppositie kleur met plannetjes](https://nos.nl/artikel/2307692-halverwege-de-rit-bekennen-coalitie-en-oppositie-kleur-met-plannetjes.html)
-* NRC Handelsblad (12 October 2019) [Het kabinet vreest de oppositie niet](https://www.nrc.nl/nieuws/2019/10/12/kabinet-vreest-de-oppositie-niet-a3976517)
+* Valk, Guus (12 October 2019) [Het kabinet vreest de oppositie niet](https://www.nrc.nl/nieuws/2019/10/12/kabinet-vreest-de-oppositie-niet-a3976517), *NRC Handelsblad*.
 * Stuk Rood Vlees Podcast (26 September 2019) [Interview with Armèn Hakhverdian about the Dutch electoral system and the politics of opposition (edition 41)](http://stukroodvlees.nl/stuk-rood-vlees-podcast-aflevering-41-het-nederlandse-kiesstelsel-doorgelicht-met-rudy-andeweg-en-tom-louwerse/)
 * NOS (11 September 2019) [Peilingwijzer: Forum maakt duikvlucht, VVD verreweg de grootste](https://nos.nl/artikel/2301200-peilingwijzer-forum-maakt-duikvlucht-vvd-verreweg-de-grootste.html)
 * De Volkskrant (19 August 2019) [Henk Otten en zijn Ottianen hebben het verleden niet mee](https://www.volkskrant.nl/nieuws-achtergrond/henk-otten-en-zijn-ottianen-hebben-het-verleden-niet-mee~b0ef4695/)
