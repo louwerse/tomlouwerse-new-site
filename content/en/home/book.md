@@ -57,4 +57,3 @@ hero_media = "2020_gpn.jpg"
 **5th revised edition**
 
 Rudy B. Andeweg, Galen A. Irwin & Tom Louwerse
-
