@@ -14,7 +14,9 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 **2021**
+* NOS (29 January 2021) [Peilingwijzer: kiezer rekent Rutte niet af op toeslagenaffaire en val kabinet ](https://nos.nl/artikel/2366422-peilingwijzer-kiezer-rekent-rutte-niet-af-op-toeslagenaffaire-en-val-kabinet.html).
 * Valk, Guus (17 January 2021) [‘Geen openheid, dat is een patroon bij Mark Rutte’](https://www.nrc.nl/nieuws/2021/01/17/geen-openheid-dat-is-patroon-bij-rutte-a4027958), *NRC Handelsblad*.
+* Hakhverdian, Armèn (16 January 2021) [Aflevering 92 – Het kabinet-Rutte III treedt af, met Tom Louwerse en Tom van der Meer](https://stukroodvlees.nl/aflevering-92-het-kabinet-rutte-iii-treedt-af-met-tom-louwerse-en-tom-van-der-meer/). *StukRoodVlees Podcast*.
 * NOS (15 January 2021) [Peilingwijzer: PvdA viel terug voor vertrek Asscher, JA21 haalt zetel ](https://nos.nl/artikel/2364508-peilingwijzer-pvda-viel-terug-voor-vertrek-asscher-ja21-haalt-zetel.html).
 * Sloot, Eduard en Gerard Beverdam (14 January 2021) ['Na moord Fortuyn gingen verkiezingen door'](https://www.nd.nl/nieuws/politiek/1013202/-lsquo-na-moord-fortuyn-gingen-verkiezingen-door), *Nederlands Dagblad*, p. 2.
 
