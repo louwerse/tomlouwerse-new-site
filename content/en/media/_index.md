@@ -14,6 +14,7 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 **2021**
+
 * Nuland, Merijn van (2 February 2021) [Corona en de kloof tussen burger en expert](https://www.universiteitleiden.nl/nieuws/2021/02/corona-en-de-kloof-tussen-burger-en-expert), *Universiteit Leiden Nieuws*.
 * NOS (29 January 2021) [Peilingwijzer: kiezer rekent Rutte niet af op toeslagenaffaire en val kabinet ](https://nos.nl/artikel/2366422-peilingwijzer-kiezer-rekent-rutte-niet-af-op-toeslagenaffaire-en-val-kabinet.html).
 * Valk, Guus (17 January 2021) [‘Geen openheid, dat is een patroon bij Mark Rutte’](https://www.nrc.nl/nieuws/2021/01/17/geen-openheid-dat-is-patroon-bij-rutte-a4027958), *NRC Handelsblad*.
@@ -22,12 +23,13 @@ Media appearances and mentions:
 * Sloot, Eduard en Gerard Beverdam (14 January 2021) ['Na moord Fortuyn gingen verkiezingen door'](https://www.nd.nl/nieuws/politiek/1013202/-lsquo-na-moord-fortuyn-gingen-verkiezingen-door), *Nederlands Dagblad*, p. 2.
 
 **2020**
+
 * Lievisse Adriaanse, Mark (19 December 2020) [Eerst overmoedig, toen onmachtig](https://www.nrc.nl/nieuws/2020/12/19/eerst-overmoedig-toen-onmachtig-a4024502), *NRC Handelsblad*.
 * Knoop, Bas (7 December 2020) [Hoe het collectieve geheugen van de Tweede Kamer steeds verder wordt aangetast](https://fd.nl/achtergrond/1366344/hoe-het-collectieve-geheugen-van-de-tweede-kamer-wordt-aangetast), *Financieel Dagblad*.
-* *Het Parool* (29 November 2020) [FvD wil bindend referendum over leiderschap Baudet ](https://www.parool.nl/nederland/fvd-wil-bindend-referendum-over-leiderschap-baudet~b7442a82/)
-* Nagtzaam, Pepijn (6 November 2020) [Zaten de peilingen er 'weer' naast, of snappen we niet hoe we ze moeten gebruiken? ](https://nos.nl/nieuwsuur/collectie/13849/artikel/2355492-zaten-de-peilingen-er-weer-naast-of-snappen-we-niet-hoe-we-ze-moeten-gebruiken), *Nieuwsuur*.
+* *Het Parool* (29 November 2020) [FvD wil bindend referendum over leiderschap Baudet](https://www.parool.nl/nederland/fvd-wil-bindend-referendum-over-leiderschap-baudet~b7442a82/)
+* Nagtzaam, Pepijn (6 November 2020) [Zaten de peilingen er 'weer' naast, of snappen we niet hoe we ze moeten gebruiken?](https://nos.nl/nieuwsuur/collectie/13849/artikel/2355492-zaten-de-peilingen-er-weer-naast-of-snappen-we-niet-hoe-we-ze-moeten-gebruiken), *Nieuwsuur*.
 * Valkeman, André (2 November 2020) [Regionale politici willen op campagne maar hoe doe je dat in coronatijd? Hier de antwoorden](https://www.destentor.nl/deventer/regionale-politici-willen-op-campagne-maar-hoe-doe-je-dat-in-coronatijd-hier-de-antwoorden~a1c985e0/?referrer=https%3A%2F%2Fnews.google.com%2F), *De Stentor*.
-* NOS (28 October 2020) [Peilingwijzer: VVD houdt straatlengte voorsprong, Forum zakt verder weg ](https://nos.nl/artikel/2354243-peilingwijzer-vvd-houdt-straatlengte-voorsprong-forum-zakt-verder-weg.html)
+* NOS (28 October 2020) [Peilingwijzer: VVD houdt straatlengte voorsprong, Forum zakt verder weg](https://nos.nl/artikel/2354243-peilingwijzer-vvd-houdt-straatlengte-voorsprong-forum-zakt-verder-weg.html)
 * Van Hal, George (25 September 2020) [Biden of toch weer Trump: klopt de voorspelling van de Amerikaanse peilingbureaus ditmaal wél?](https://www.volkskrant.nl/wetenschap/biden-of-toch-weer-trump-klopt-de-voorspelling-van-de-amerikaanse-peilingbureaus-ditmaal-wel~b2d51836/), *De Volkskrant*.
 * Aidan Regan (20 September 2020) [Aidan Regan: Why Fianna Fáil must turn to the left to survive](https://www.businesspost.ie/ireland/aidan-regan-why-fianna-fail-must-turn-to-the-left-to-survive-bddccde9?utm_campaign=article&utm_source=twitter&utm_medium=web), Sunday Business Post.
 * NOS (15 September 2020) [Peilingwijzer: VVD blijft veruit grootste, PVV weer in de lift ](https://nos.nl/artikel/2348317-peilingwijzer-vvd-blijft-veruit-grootste-pvv-weer-in-de-lift.html)
