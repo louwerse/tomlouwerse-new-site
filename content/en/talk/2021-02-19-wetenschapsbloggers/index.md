@@ -18,7 +18,7 @@ location = "Online"
 
 # Name of event and optional event URL.
 event = "3e symposium wetenschapsbloggers"
-event_url = ""
+event_url = "https://www.neerlandistiek.nl/2021/01/19-februari-2021-3e-symposium-voor-wetenschapsbloggers/"
 
 # Abstract. What's your talk about?
 abstract = "In het panel tijdens het derde symposium voor wetenschapsbloggers spreek ik met Rosanne Hertzberger en Christiaan Jongeneel over het thema wetenschap en politiek."
