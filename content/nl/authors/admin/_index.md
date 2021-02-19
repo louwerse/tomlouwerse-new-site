@@ -79,6 +79,6 @@ Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden
 
 Op dit moment werk ik aan twee grote onderzoeksprojecten. *The Nature of Political Representation in Times of Dealignment*, ondersteund door de *Open Research Area*, onderzoekt de kwaliteit en de aard van politieke vertegenwoordiging. Het project *Who opposes?* richt zich op de samenwerking tussen regering en oppositie in het parlement en wordt ondersteund door een Vidi-subsidie van NWO.
 
-Mijn outreachactiviteiten omvatten de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) en de [Irish Polling Indicator](https://www.pollingindicator.com). Ik ben lid van [Young Academy Leiden](https://www.universiteitleiden.nl/academic-staff/young-academy-leiden).
+Mijn outreachactiviteiten omvatten de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) en de [Irish Polling Indicator](https://www.pollingindicator.com). Ik ben lid van [Young Academy Leiden](https://www.universiteitleiden.nl/yal).
 
 **Kijk op mijn [Engelstalige site](../) voor een volledig overzicht van mijn onderzoek, onderwijs & outreachactiviteiten**

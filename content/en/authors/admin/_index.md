@@ -80,4 +80,4 @@ I am an Associate Professor in Political Science at [Leiden University](https://
 
 Currently, I am working on two major research projects. [The Nature of Political Representation in Times of Dealignment](project/napre), supported by the Open Research Area, studies the quality and nature of political representation. The project [Who opposes?](project/who-opposes) focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).
 
-My outreach activities include the poll aggregation projects [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) in the Netherlands and the [Irish Polling Indicator](https://www.pollingindicator.com). I am a member of of [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden).
+My outreach activities include the poll aggregation projects [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) in the Netherlands and the [Irish Polling Indicator](https://www.pollingindicator.com). I am a member of of [Young Academy Leiden](https://www.universiteitleiden.nl/en/yal).
