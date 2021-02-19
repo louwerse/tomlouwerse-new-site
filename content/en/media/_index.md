@@ -15,6 +15,8 @@ Media appearances and mentions:
 
 **2021**
 
+* Dutchnews Podcast (19 February 2021) [DutchNews podcast – The Dreadlocked Lockdown Deadlock Edition – Week 7](https://www.dutchnews.nl/features/2021/02/dutchnews-podcast-the-dreadlocked-lockdown-deadlock-edition-week-7/)
+* Stellinga, Marike & Stéphane Alonso (18 February 2021) [Wat zijn de belangrijkste plannen van de politieke partijen?](https://www.nrc.nl/nieuws/2021/02/18/wat-te-doen-met-klushuis-nederland-a4032415), *NRC Handelsblad*.
 * Nuland, Merijn van (2 February 2021) [Corona en de kloof tussen burger en expert](https://www.universiteitleiden.nl/nieuws/2021/02/corona-en-de-kloof-tussen-burger-en-expert), *Universiteit Leiden Nieuws*.
 * NOS (29 January 2021) [Peilingwijzer: kiezer rekent Rutte niet af op toeslagenaffaire en val kabinet ](https://nos.nl/artikel/2366422-peilingwijzer-kiezer-rekent-rutte-niet-af-op-toeslagenaffaire-en-val-kabinet.html).
 * Valk, Guus (17 January 2021) [‘Geen openheid, dat is een patroon bij Mark Rutte’](https://www.nrc.nl/nieuws/2021/01/17/geen-openheid-dat-is-patroon-bij-rutte-a4027958), *NRC Handelsblad*.
