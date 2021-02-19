@@ -4,7 +4,7 @@ authors = ["Simon Otjes", "admin"]
 date = "2021-02-12"
 
 math = false
-publication = "In: Schinkelshoek, Jan & Gerrit Voerman (Ed.), 'Niet stoffig, toch?' Terugblik op het kabinet-Rutte III, pp. 55-70, Den Haag: Montesquieu Instituut."
+publication = "In: Schinkelshoek, Jan & Gerrit Voerman (Eds.), 'Niet stoffig, toch?' Terugblik op het kabinet-Rutte III, pp. 55-70, Den Haag: Montesquieu Instituut"
 title = "Derde keer op de evenwichtsbalk. Parlementair stemgedrag tijdens Rutte III"
 doi = ""
 url_code = ""
