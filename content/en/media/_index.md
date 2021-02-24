@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 **2021**
 
+* Met Nerds Om Tafel (24 February 2021) [S08E22 – Peilingen analyseren en verstandig stemmen met Tom Louwerse van Peilingwijzer.nl](https://www.metnerdsomtafel.nl/podcast/s08e22-peilingen-analyseren-en-verstandig-stemmen-met-tom-louwerse-van-peilingwijzer-nl.html)
 * Dutchnews Podcast (19 February 2021) [DutchNews podcast – The Dreadlocked Lockdown Deadlock Edition – Week 7](https://www.dutchnews.nl/features/2021/02/dutchnews-podcast-the-dreadlocked-lockdown-deadlock-edition-week-7/)
 * Stellinga, Marike & Stéphane Alonso (18 February 2021) [Wat zijn de belangrijkste plannen van de politieke partijen?](https://www.nrc.nl/nieuws/2021/02/18/wat-te-doen-met-klushuis-nederland-a4032415), *NRC Handelsblad*.
 * Nuland, Merijn van (2 February 2021) [Corona en de kloof tussen burger en expert](https://www.universiteitleiden.nl/nieuws/2021/02/corona-en-de-kloof-tussen-burger-en-expert), *Universiteit Leiden Nieuws*.
