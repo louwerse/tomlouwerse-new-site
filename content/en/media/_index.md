@@ -15,11 +15,13 @@ Media appearances and mentions:
 
 ## 2021
 
+* Stam, Paul & Jasmijn Huisman (4 March 2021) [Rumoer rond de peilingen: hoeveel invloed hebben ze nu echt op uw stemgedrag?](https://www.volkskrant.nl/nieuws-achtergrond/rumoer-rond-de-peilingen-hoeveel-invloed-hebben-ze-nu-echt-op-uw-stemgedrag~b1eb5145/?utm_source=link&utm_medium=app&utm_campaign=shared%20content&utm_content=free), *De Volkskrant*.
+* NOS (3 March 2021) [Peilingwijzer: fragmentatie ongekend met vijftien partijen die kans maken op zetel](https://nos.nl/collectie/13860/artikel/2371108-peilingwijzer-fragmentatie-ongekend-met-vijftien-partijen-die-kans-maken-op-zetel).
 * Doorn, Ramon van (26 February 2021)  [Wetenschappers zijn net mensen](https://www.scienceguide.nl/2021/02/wetenschappers-zijn-net-mensen/), *Scienceguide*.
 * Vries, Bas de (25 February 2021) [Saaie campagne? Integendeel, meestal verschuiven er onderweg tientallen zetels](https://nos.nl/collectie/13860/artikel/2370258-saaie-campagne-integendeel-meestal-verschuiven-er-onderweg-tientallen-zetels), *NOS*.
-* Met Nerds Om Tafel (24 February 2021) [S08E22 – Peilingen analyseren en verstandig stemmen met Tom Louwerse van Peilingwijzer.nl](https://www.metnerdsomtafel.nl/podcast/s08e22-peilingen-analyseren-en-verstandig-stemmen-met-tom-louwerse-van-peilingwijzer-nl.html)
-* Dutchnews Podcast (19 February 2021) [DutchNews podcast – The Dreadlocked Lockdown Deadlock Edition – Week 7](https://www.dutchnews.nl/features/2021/02/dutchnews-podcast-the-dreadlocked-lockdown-deadlock-edition-week-7/)
-* NOS (19 February 2021) [Peilingwijzer: VVD blijft verreweg de grootste, maar verliest zetels](https://nos.nl/artikel/2369418-peilingwijzer-vvd-blijft-verreweg-de-grootste-maar-verliest-zetels.html)
+* Met Nerds Om Tafel (24 February 2021) [S08E22 – Peilingen analyseren en verstandig stemmen met Tom Louwerse van Peilingwijzer.nl](https://www.metnerdsomtafel.nl/podcast/s08e22-peilingen-analyseren-en-verstandig-stemmen-met-tom-louwerse-van-peilingwijzer-nl.html).
+* Dutchnews Podcast (19 February 2021) [DutchNews podcast – The Dreadlocked Lockdown Deadlock Edition – Week 7](https://www.dutchnews.nl/features/2021/02/dutchnews-podcast-the-dreadlocked-lockdown-deadlock-edition-week-7/).
+* NOS (19 February 2021) [Peilingwijzer: VVD blijft verreweg de grootste, maar verliest zetels](https://nos.nl/artikel/2369418-peilingwijzer-vvd-blijft-verreweg-de-grootste-maar-verliest-zetels.html).
 * Stellinga, Marike & Stéphane Alonso (18 February 2021) [Wat zijn de belangrijkste plannen van de politieke partijen?](https://www.nrc.nl/nieuws/2021/02/18/wat-te-doen-met-klushuis-nederland-a4032415), *NRC Handelsblad*.
 * Nuland, Merijn van (2 February 2021) [Corona en de kloof tussen burger en expert](https://www.universiteitleiden.nl/nieuws/2021/02/corona-en-de-kloof-tussen-burger-en-expert), *Universiteit Leiden Nieuws*.
 * NOS (29 January 2021) [Peilingwijzer: kiezer rekent Rutte niet af op toeslagenaffaire en val kabinet](https://nos.nl/artikel/2366422-peilingwijzer-kiezer-rekent-rutte-niet-af-op-toeslagenaffaire-en-val-kabinet.html).
