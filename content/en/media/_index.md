@@ -15,6 +15,15 @@ Media appearances and mentions:
 
 ## 2021
 
+* Kirby, Paul (2 April 2021) [Mark Rutte: Survivor of Dutch politics in fight for political life](https://www.bbc.com/news/world-europe-39289468), *BBC News*.
+* Wieringa, Rein (24 March 2021) [D66 en VVD profiteren van het restzetelsysteem](https://www.nrc.nl/nieuws/2021/03/24/d66-en-vvd-profiteren-van-het-restzetelsysteem-a4037190), *NRC Handelsblad*.
+* Aten, Jan Joost (18 March 2021) [‘Misschien toch nog een kleine partij bij de onderhandelingen’](https://www.universiteitleiden.nl/nieuws/2021/03/210318-verkiezingsuitslag-reactie-tom-louwerse), *Universiteit Leiden*. 
+* Winterman, Peter (17 March 2021) [Peilingen niet perfect: kleine partijen verrassen vanavond](https://www.parool.nl/nederland/peilingen-niet-perfect-kleine-partijen-verrassen-vanavond~b964fce1/).
+* NOS (16 March 2021) [Peilingwijzer: VVD nog duidelijk grootste, D66 stijgt](https://nos.nl/collectie/13860/artikel/2372922-peilingwijzer-vvd-nog-duidelijk-grootste-d66-stijgt).
+* Tim Jones (15 March 2021) [Governance and Politics of the Netherlands](https://newbooksnetwork.com/governance-and-politics-of-the-netherlands) (Podcast), *New Books Network*.
+* Hakhverdian, Armen (9 March 2021) [Stemmen: een verkiezingspodcast zonder peilingen. Aflevering 4 – Waarom debatten, stemhulpen en peilingen de zwevende kiezer nauwelijks helpen](https://stukroodvlees.nl/stemmen-een-verkiezingspodcast-zonder-peilingen-aflevering-4-waarom-debatten-stemhulpen-en-peilingen-de-zwevende-kiezer-nauwelijks-helpen/), *De Correspondent i.s.m. Stuk Rood Vlees*.
+* NOS (9 March 2021) [Peilingwijzer: weinig beweging, meer nieuwkomers kloppen aan de deur](https://nos.nl/collectie/13860/artikel/2371977-peilingwijzer-weinig-beweging-meer-nieuwkomers-kloppen-aan-de-deur).
+* Ziarczyk, Erik (6 March 2021) [De ideologische kameleon in het Torentje](https://www.tijd.be/dossier/europareeks/de-ideologische-kameleon-in-het-torentje/10289198.html), *De Tijd*.
 * Stam, Paul & Jasmijn Huisman (4 March 2021) [Rumoer rond de peilingen: hoeveel invloed hebben ze nu echt op uw stemgedrag?](https://www.volkskrant.nl/nieuws-achtergrond/rumoer-rond-de-peilingen-hoeveel-invloed-hebben-ze-nu-echt-op-uw-stemgedrag~b1eb5145/?utm_source=link&utm_medium=app&utm_campaign=shared%20content&utm_content=free), *De Volkskrant*.
 * NOS (3 March 2021) [Peilingwijzer: fragmentatie ongekend met vijftien partijen die kans maken op zetel](https://nos.nl/collectie/13860/artikel/2371108-peilingwijzer-fragmentatie-ongekend-met-vijftien-partijen-die-kans-maken-op-zetel).
 * Doorn, Ramon van (26 February 2021)  [Wetenschappers zijn net mensen](https://www.scienceguide.nl/2021/02/wetenschappers-zijn-net-mensen/), *Scienceguide*.
