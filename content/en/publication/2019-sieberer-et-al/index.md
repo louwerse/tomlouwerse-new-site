@@ -2,7 +2,7 @@
 abstract = "The design of government portfolios – that is, the distribution of competencies among government ministries and office holders – has been largely ignored in the study of executive and coalition politics. This article argues that portfolio design is a substantively and theoretically relevant phenomenon that has major implications for the study of institutional design and coalition politics. The authors use comparative data on portfolio design reforms in nine Western European countries since the 1970s to demonstrate how the design of government portfolios changes over time. Specifically, they show that portfolios are changed frequently (on average about once a year) and that such shifts are more likely after changes in the prime ministership or the party composition of the government. These findings suggest a political logic behind these reforms based on the preferences and power of political parties and politicians. They have major implications for the study of institutional design and coalition politics."
 
 authors = ["Ulrich Sieberer", "Thomas Meyer", "Hanna Bäck",  "Andrea Ceron", "Albert Falcó-Gimeno", "Isabelle Guinaudeau", "Martin Eljnar Hansen", "Kristoffer Kolltveit", "admin", "Wolfgang C. Müller", "Thomas Persson"]
-date = "2021"
+date = "2021-04-01"
 math = false
 publication = "*British Journal of Political Science*, 51(2), 772–787"
 title = "The political dynamics of portfolio design in European democracies"
