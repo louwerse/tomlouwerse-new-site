@@ -19,4 +19,4 @@ publication_types = ["2"]
 
 +++
 
-### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by">
+### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i>
