@@ -14,9 +14,10 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 ## 2021
-
+* Biesbroek, Sil & Joy Schenk (15 April 2021) [Hoe betrouwbaar zijn zetelpeilingen?](https://www.instagram.com/p/CNsPElqFmBT/), *De factcheckers*.
 * Kirby, Paul (2 April 2021) [Mark Rutte: Survivor of Dutch politics in fight for political life](https://www.bbc.com/news/world-europe-39289468), *BBC News*.
 * Wieringa, Rein (24 March 2021) [D66 en VVD profiteren van het restzetelsysteem](https://www.nrc.nl/nieuws/2021/03/24/d66-en-vvd-profiteren-van-het-restzetelsysteem-a4037190), *NRC Handelsblad*.
+* Laan, Ivo (19 March 2021) [Verkiezingsuitslag is dit jaar maar 'een saaie boel'](https://advance-lexis-com.ezproxy.leidenuniv.nl/api/document?collection=news&id=urn:contentItem:627P-P2J1-JBNC-71M4-00000-00&context=1516831), diverse dagbladen van Holland Media Combinatie.
 * Aten, Jan Joost (18 March 2021) [‘Misschien toch nog een kleine partij bij de onderhandelingen’](https://www.universiteitleiden.nl/nieuws/2021/03/210318-verkiezingsuitslag-reactie-tom-louwerse), *Universiteit Leiden*. 
 * Winterman, Peter (17 March 2021) [Peilingen niet perfect: kleine partijen verrassen vanavond](https://www.parool.nl/nederland/peilingen-niet-perfect-kleine-partijen-verrassen-vanavond~b964fce1/).
 * NOS (16 March 2021) [Peilingwijzer: VVD nog duidelijk grootste, D66 stijgt](https://nos.nl/collectie/13860/artikel/2372922-peilingwijzer-vvd-nog-duidelijk-grootste-d66-stijgt).
@@ -26,6 +27,7 @@ Media appearances and mentions:
 * Ziarczyk, Erik (6 March 2021) [De ideologische kameleon in het Torentje](https://www.tijd.be/dossier/europareeks/de-ideologische-kameleon-in-het-torentje/10289198.html), *De Tijd*.
 * Stam, Paul & Jasmijn Huisman (4 March 2021) [Rumoer rond de peilingen: hoeveel invloed hebben ze nu echt op uw stemgedrag?](https://www.volkskrant.nl/nieuws-achtergrond/rumoer-rond-de-peilingen-hoeveel-invloed-hebben-ze-nu-echt-op-uw-stemgedrag~b1eb5145/?utm_source=link&utm_medium=app&utm_campaign=shared%20content&utm_content=free), *De Volkskrant*.
 * NOS (3 March 2021) [Peilingwijzer: fragmentatie ongekend met vijftien partijen die kans maken op zetel](https://nos.nl/collectie/13860/artikel/2371108-peilingwijzer-fragmentatie-ongekend-met-vijftien-partijen-die-kans-maken-op-zetel).
+* Veldpost (1 March 2021) [‘BBB staat niet heel ver van een zetel af’](https://advance-lexis-com.ezproxy.leidenuniv.nl/api/document?collection=news&id=urn:contentItem:625T-JPK1-DXKK-P0H3-00000-00&context=1516831).
 * Doorn, Ramon van (26 February 2021)  [Wetenschappers zijn net mensen](https://www.scienceguide.nl/2021/02/wetenschappers-zijn-net-mensen/), *Scienceguide*.
 * Vries, Bas de (25 February 2021) [Saaie campagne? Integendeel, meestal verschuiven er onderweg tientallen zetels](https://nos.nl/collectie/13860/artikel/2370258-saaie-campagne-integendeel-meestal-verschuiven-er-onderweg-tientallen-zetels), *NOS*.
 * Met Nerds Om Tafel (24 February 2021) [S08E22 – Peilingen analyseren en verstandig stemmen met Tom Louwerse van Peilingwijzer.nl](https://www.metnerdsomtafel.nl/podcast/s08e22-peilingen-analyseren-en-verstandig-stemmen-met-tom-louwerse-van-peilingwijzer-nl.html).
