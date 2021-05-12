@@ -11,9 +11,21 @@ highlight = false
 
 +++
 
+**2021**
+Louwerse, Tom (2021) [Slotpeilingen: niet perfect, toch nuttig](https://www.montesquieu-instituut.nl/9353000/1/j9vvj72dlowskug/vli69mwql0s5?pk_campaign=hofv-2104&pk_kwd=vli69mwql0s5), *De Hofvijver*, vol. 11, no. 119, 26 April.
+
+**2020**
+Louwerse, Tom and Harmen van der Veer (2020) [Hoe stemmen de politieke partijen in de Tweede Kamer?](https://stukroodvlees.nl/hoe-stemmen-de-politieke-partijen-in-de-tweede-kamer/) Stuk Rood Vlees, 29 May.
+
+
+**2019**
+Tromble, Rebekah, Kristof Jacobs and Tom Louwerse (2019) [Transparantie rond digitale politieke advertenties laat te wensen over](https://stukroodvlees.nl/transparantie-rond-digitale-politieke-advertenties-laat-te-wensen-over/), Stuk Rood Vlees, 12 December.
+
+Louwerse, Tom (2019) [Profiel kiezers FvD en PVV lijkt inhoudelijk steeds meer op elkaar](https://stukroodvlees.nl/profiel-kiezers-fvd-en-pvv-lijkt-inhoudelijk-steeds-meer-op-elkaar/), Stuk Rood Vlees, 7 May.
+
+
 **2018**  
-Müller, S. & Louwerse, T. (31-10-2018) [
-Government parties no longer bounce back from midterm losses](http://blogs.lse.ac.uk/europpblog/2018/10/31/government-parties-no-longer-bounce-back-from-midterm-losses/), _LSE EUROPP blog_.
+Müller, S. & Louwerse, T. (31-10-2018) [Government parties no longer bounce back from midterm losses](http://blogs.lse.ac.uk/europpblog/2018/10/31/government-parties-no-longer-bounce-back-from-midterm-losses/), _LSE EUROPP blog_.
 
 Otjes, S. & Louwerse, T. (9-7-2018) ["Evidence from the Netherlands: How do populist parties act in parliament?"](http://blogs.lse.ac.uk/europpblog/2018/07/09/evidence-from-the-netherlands-how-do-populist-parties-act-in-parliament/), _LSE EUROPP blog_.  
 
