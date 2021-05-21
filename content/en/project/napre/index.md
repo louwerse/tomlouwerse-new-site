@@ -31,9 +31,9 @@ fractions = false
 
   
 +++
-{{% alert note %}}
+{{% callout note %}}
 This project is collaborative work with [Prof. Dr Thomas Zittel](http://www.goethe-university-frankfurt.de/50240689/tzittel) and [Dr Markus Baumann](http://www.goethe-university-frankfurt.de/82093867/ContentPage_82093867?) (Goethe Universität Frankfurt am Main), [Prof. Dr Rosie Campbell](https://www.kcl.ac.uk/people/rosie-campbell) and [Diane Bolet](https://www.researchgate.net/profile/Diane_Bolet) (King's College London), and [Marijn Nagtzaam](https://www.universiteitleiden.nl/en/staffmembers/marijn-nagtzaam#tab-1) (Leiden University). Previously, Wouter Schakel (currently at UvA) was a postdoc on this project. The project is financially supported by DFG, ESRC, and NWO under the [Open Research Area (ORA)](https://www.nwo.nl/en/news-and-events/news/2018/10/fourteen-dutch-researchers-funded-for-collaborative-projects-across-europe-and-japan.html). 
-{{% /alert %}}
+{{% /callout %}}
 
 Weakening partisanship in West European electorates results in increasing disconnection between citizens and the state; raising pressing questions regarding future mechanisms of political representation that could sustain responsive government. To explore this serious challenge to democratic governance, this project investigates the viability, and conditions of, dyadic forms of representation in established European democracies. We particularly aim to study whether individual MPs pay attention to citizen-initiated inquiries in low information environments, what types of cues most often gain their attention, and how electoral contexts condition the interactions of citizens and MPs. 
 
