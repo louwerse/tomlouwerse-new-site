@@ -14,6 +14,9 @@ highlight = false
 _Conference and working papers_
 
 
+**2021**
+Otjes, S., & Louwerse, T. (2021) The Reinvention of Consensus Politics: Majority and minority government in the Netherlands 2007-2021. Paper presented at the Online Conference of the Council for European Studies, 21-24 June.
+
 **2020**
 
 Baumann, M., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2020) The Responsiveness of MPs to Citizen-Initiated Policy Queries; A Proposal for a Pre-Analysis Plan. Paper presented at the ECPR Virtual General Conference, 24-28 August.
