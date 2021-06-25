@@ -15,6 +15,11 @@ _Conference and working papers_
 
 
 **2021**
+
+# Zittel, T., Baumann, M., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H., Schakel, W. (2021) How Legislators Respond to Citizens in Times of Crisis.  A Field Experiment with Members of the 19th German Bundestag during the Covid-19 Pandemic. Paper presented at the 6th Conference of the ECPR Standing Group on Parliaments, Virtual Event, 1-2 July 2021.
+
+Nagtzaam, M. & Louwerse, T. (2021) Geographical representation under a single nationwide district: the case of the Netherlands. Paper presented at the 6th Conference of the ECPR Standing Group on Parliaments, Virtual Event, 1-2 July 2021.
+
 Otjes, S., & Louwerse, T. (2021) The Reinvention of Consensus Politics: Majority and minority government in the Netherlands 2007-2021. Paper presented at the Online Conference of the Council for European Studies, 21-24 June.
 
 **2020**
