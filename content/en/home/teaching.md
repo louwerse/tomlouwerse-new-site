@@ -51,8 +51,10 @@ weight = 60
 
 +++
 
-I am teaching the following courses in the academic year 2020-2021:
+I am teaching the following courses in the academic year 2021-2022:
 
-* [Statistics I](https://studiegids.universiteitleiden.nl/en/courses/99457/statistiek-i-beschrijven-en-presenteren) (BSc Political Science Leiden, 1st year).
-* Master Seminar ['Political Representation and Parliamentary Politics'](https://studiegids.universiteitleiden.nl/en/courses/99542/political-representation-and-parliamentary-politics) (MSc Political Science Leiden)
-* Master Thesis Seminar [Parties, Parliaments and Democracy](https://studiegids.universiteitleiden.nl/courses/103224/thesis-seminar-parties-parliaments-and-democracy-spring-2021) (MSc Political Science Leiden)
+* [Statistics I](https://studiegids.universiteitleiden.nl/en/courses/108769/statistiek-i-beschrijven-en-presenteren) (BSc Political Science Leiden, 1st year). 
+
+For students, course information can be found on [Brightspace](https://brightspace.universiteitleiden.nl). 
+
+Details on my teaching experience can be found in my [Curriculum vitae](pdf/CV.pdf).
