@@ -11,7 +11,7 @@ doi = "10.1080/01402382.2021.1886519"
 url_code = "https://doi.org/10.6084/m9.figshare.12793808.v1"
 url_dataset = "https://doi.org/10.6084/m9.figshare.12793808.v1"
 url_pdf = "https://www.tandfonline.com/doi/epub/10.1080/01402382.2021.1886519?needAccess=true"
-projects=["parliaments"]
+projects=["parliaments", "who-opposes"]
 url_slides = ""
 url_video = ""
 links = [{name="Online Appendices", url="https://doi.org/10.6084/m9.figshare.14152462.v1"}]
