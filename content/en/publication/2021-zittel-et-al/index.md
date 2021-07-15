@@ -14,7 +14,6 @@ url_pdf = "https://journals.sagepub.com/doi/pdf/10.1177/01925121211026489"
 projects=["napre"]
 url_slides = ""
 url_video = ""
-links = ""
 publication_types = ["2"]
 
 +++

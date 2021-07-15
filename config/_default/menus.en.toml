@@ -9,76 +9,90 @@
   weight = 1
 
 [[main]]
-  name = "Biography"
+  name = "Bio"
   url = "#bio"
   weight = 2
 
-[[main]]
-  name = "Research"
-  identifier = "research"
-  url = "#projects"
-  weight = 3
+# [[main]]
+#   name = "Research"
+#   identifier = "research"
+#   url = "#projects"
+#   weight = 3
 
 [[main]]
-  parent = "research"
-  name = "Projects"
+  # parent = "research"
+  name = "Research"
   url = "#projects"
-  weight = 4
+  weight = 3
   
 [[main]]
-  parent = "research"
+  # parent = "research"
   name = "Publications"
   identifier = "publications"
+  url = "#publications"
+  weight = 4
+
+[[main]]
+  parent = "publications"
+  name = "Recent"
+  identifier = "publicationsrecent"
   url = "#publications"
   weight = 5
 
 [[main]]
-  parent = "research"
+  parent = "publications"
+  name = "All publications"
+  identifier = "publicationsall"
+  url = "/publication"
+  weight = 6
+
+[[main]]
+  parent = "publications"
   name = "Working papers"
   identifier = "workingpapers"
   url = "/papers"
-  weight = 5
+  weight = 7
 
 [[main]]
-  parent = "research"
+  # parent = "research"
   name = "Data"
   identifier = "data"
   url = "#data"
-  weight = 6
+  weight = 8
  
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 7
+  weight = 10
 
 [[main]]
   name = "Outreach"
   identifier = "outreach"
   url = "#media"
-  weight = 8
+  weight = 15
   
 [[main]]
   parent = "outreach"
   name = "Blogs & popular publications"
   url = "#blogs"
-  weight = 9
+  weight = 16
 
 [[main]]
   parent = "outreach"
   name = "Media"
   url = "#media"
-  weight = 10
+  weight = 17
 
 [[main]]
   parent = "outreach"
   name = "Talks"
   url = "#talks"
-  weight = 11
+  weight = 18
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 12
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
