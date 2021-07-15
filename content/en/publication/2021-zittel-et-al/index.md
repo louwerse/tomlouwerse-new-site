@@ -19,6 +19,6 @@ publication_types = ["2"]
 
 +++
 
-### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> 
+### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i>
 
 This work was supported by grants from the Deutsche Forschungsgemeinschaft (Grant Number: ZI 608/8-1) and the Nederlandse Organisatie voor Wetenschappelijk Onderzoek (Grant Number: 464.18.108).
