@@ -19,8 +19,8 @@ content:
       tag: methodology
 design:
   columns: '1'
-  view: 5
-  flip_alt_rows: true
+  view: 1
+  flip_alt_rows: false
   background: {}
 advanced:
   css_style: ''
