@@ -18,7 +18,7 @@ content:
     - name: Methodology
       tag: methodology
 design:
-  columns: '1'
+  columns: '2'
   view: 2
   flip_alt_rows: false
   background: {}
