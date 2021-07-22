@@ -19,7 +19,7 @@ content:
       tag: methodology
 design:
   columns: '1'
-  view: 1
+  view: 2
   flip_alt_rows: false
   background: {}
 advanced:
