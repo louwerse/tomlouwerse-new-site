@@ -3,8 +3,8 @@ widget: portfolio
 headless: true
 active: true
 weight: 15
-title: Research Themes and Projects
-subtitle: ''
+title: Research 
+subtitle: Themes and Projects
 content:
   page_type: project
   filter_default: 0
@@ -19,7 +19,7 @@ content:
       tag: methodology
 design:
   columns: '1'
-  view: 3
+  view: 5
   flip_alt_rows: true
   background: {}
 advanced:
