@@ -1,37 +1,26 @@
-+++
-# Date this page was created.
-date = 2019-10-02
-
-# Project title.
-title = "Who opposes?"
-subtitle = "Explaining government-opposition cooperation in parliament and its consequences for democratic legitimacy"
-
-# Project summary to display on homepage.
-summary = "The main objectives of this project are to measure and explain government-opposition cooperation and to study its consequences for democratic legitimacy and vote choice."
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["parliaments", "representation"]
+---
+title: Who opposes?
+subtitle: Explaining government-opposition cooperation in parliament and its consequences for democratic legitimacy
+summary: The main objectives of this project are to measure and explain government-opposition cooperation and to study its consequences for democratic legitimacy and vote choice.
+tags:
+- parliaments
+- representation
+date: "2019-10-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+# external_link: ""
 
-# Does the project detail page use math formatting?
-math = false
-fractions = false
+image:
+  caption: 'Image: Opposition by [Nick Youngson](http://www.nyphotographic.com/ ) CC BY-SA 3.0 [Alpha Stock Images](http://alphastockimages.com/ )'
+  focal_point: Smart
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image: Opposition by [Nick Youngson](http://www.nyphotographic.com/ ) CC BY-SA 3.0 [Alpha Stock Images](http://alphastockimages.com/ )"
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+---
   
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  
-+++
 {{% callout note %}}
 This project is financially supported by the [Dutch Research Council (NWO)](https://www.nwo.nl/en/research-and-results/programmes/nwo/talent-scheme/vidi-awards-2018.html). The project started in December 2019. [Rick van Well](https://www.universiteitleiden.nl/en/staffmembers/rick-van-well) and [Elina Zorina](https://www.universiteitleiden.nl/en/staffmembers/elina-zorina) are the two PhD students involved in this project. 
 {{% /callout %}}
