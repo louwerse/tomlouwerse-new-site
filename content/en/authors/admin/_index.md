@@ -19,6 +19,7 @@ bio: Associate Professor in Political Science at Leiden University
 # Interests to show in About widget
 interests:
 - Legislative Politics
+- Dutch Politics
 - Political Representation
 - Elections
 - Opinion Polls
