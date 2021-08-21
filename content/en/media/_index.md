@@ -14,11 +14,16 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 ## 2021
+
+* Klaassen, Niels & Peter Winterman (20 Augustus 2021) [Felle kritiek op blokvorming PvdA en GroenLinks: ‘Laat dit een grap zijn’](https://www.ad.nl/politiek/felle-kritiek-op-blokvorming-pvda-en-groenlinks-laat-dit-een-grap-zijn~aab97f7b/), *Algemeen Dagblad*.
+* l’Ami, Dennis (12 Augustus 2021) [Anticorruptiewaakhond: Integriteit is geen prioriteit voor Rutte III](https://www.ftm.nl/artikelen/integriteit-geen-prioriteit), *Follow The Money*.
+* NOS (29 June 2021) [Peilingwijzer: VVD blijft grootste, CDA verder in de min na vertrek Omtzigt](https://nos.nl/artikel/2387263-peilingwijzer-vvd-blijft-grootste-cda-verder-in-de-min-na-vertrek-omtzigt).
+* l’Ami, Dennis (26 June 2021) [CDA-donateurs spinnen garen bij aanpassingen verkiezingsprogramma](https://www.ftm.nl/artikelen/donateurs-cda-verkiezingsprogramma), *Follow The Money*.
 * Biesbroek, Sil & Joy Schenk (15 April 2021) [Hoe betrouwbaar zijn zetelpeilingen?](https://www.instagram.com/p/CNsPElqFmBT/), *De factcheckers*.
 * Kirby, Paul (2 April 2021) [Mark Rutte: Survivor of Dutch politics in fight for political life](https://www.bbc.com/news/world-europe-39289468), *BBC News*.
 * Wieringa, Rein (24 March 2021) [D66 en VVD profiteren van het restzetelsysteem](https://www.nrc.nl/nieuws/2021/03/24/d66-en-vvd-profiteren-van-het-restzetelsysteem-a4037190), *NRC Handelsblad*.
 * Laan, Ivo (19 March 2021) [Verkiezingsuitslag is dit jaar maar 'een saaie boel'](https://advance-lexis-com.ezproxy.leidenuniv.nl/api/document?collection=news&id=urn:contentItem:627P-P2J1-JBNC-71M4-00000-00&context=1516831), diverse dagbladen van Holland Media Combinatie.
-* Aten, Jan Joost (18 March 2021) [‘Misschien toch nog een kleine partij bij de onderhandelingen’](https://www.universiteitleiden.nl/nieuws/2021/03/210318-verkiezingsuitslag-reactie-tom-louwerse), *Universiteit Leiden*. 
+* Aten, Jan Joost (18 March 2021) [‘Misschien toch nog een kleine partij bij de onderhandelingen’](https://www.universiteitleiden.nl/nieuws/2021/03/210318-verkiezingsuitslag-reactie-tom-louwerse), *Universiteit Leiden*.
 * Winterman, Peter (17 March 2021) [Peilingen niet perfect: kleine partijen verrassen vanavond](https://www.parool.nl/nederland/peilingen-niet-perfect-kleine-partijen-verrassen-vanavond~b964fce1/).
 * NOS (16 March 2021) [Peilingwijzer: VVD nog duidelijk grootste, D66 stijgt](https://nos.nl/collectie/13860/artikel/2372922-peilingwijzer-vvd-nog-duidelijk-grootste-d66-stijgt).
 * Tim Jones (15 March 2021) [Governance and Politics of the Netherlands](https://newbooksnetwork.com/governance-and-politics-of-the-netherlands) (Podcast), *New Books Network*.
