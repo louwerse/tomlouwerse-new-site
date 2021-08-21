@@ -40,7 +40,7 @@ hero_media = "2020_gpn.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://www.macmillanihe.com/page/detail/governance-and-politics-of-the-netherlands/?k=9781352010381&loc=uk&priceCode=it"
+  url = "https://books.google.nl/books?id=-i93zQEACAAJ"
   label = "Purchase"
   icon_pack = "fas"
   icon = "book"

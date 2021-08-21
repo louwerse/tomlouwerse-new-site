@@ -16,8 +16,8 @@ projects: []
 publication_types:
   - '5'
 links:
-  - name: Publisher's website
-    url: 'https://www.macmillanihe.com/page/detail/Governance-and-Politics-of-the-Netherlands/?K=9781352010381'
+  - name: Buy the book
+    url: 'https://books.google.nl/books?id=-i93zQEACAAJ'
 image:
   placement: 1
   width: 50
