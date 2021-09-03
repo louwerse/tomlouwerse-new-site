@@ -13,7 +13,7 @@ url_pdf = ""
 projects=""
 url_slides = ""
 url_video = ""
-links = []
+links = [{name="Publisher's website", url="https://global.oup.com/academic/product/coalition-governance-in-western-europe-9780198868484?lang=en&cc=gb"}]
 publication_types = ["6"]
 
 +++
