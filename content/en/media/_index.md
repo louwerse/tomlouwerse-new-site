@@ -15,10 +15,12 @@ Media appearances and mentions:
 
 ## 2021
 
+* *Editie NL* (3 September 2021) [Minderheidskabinet als laatste optie? Kleine partijen zien er heil in](https://www.rtlnieuws.nl/editienl/artikel/5252028/minderheidskabinet-formatie-marriete-hamer-kleine-partijen)
 * Klaassen, Niels & Peter Winterman (20 Augustus 2021) [Felle kritiek op blokvorming PvdA en GroenLinks: ‘Laat dit een grap zijn’](https://www.ad.nl/politiek/felle-kritiek-op-blokvorming-pvda-en-groenlinks-laat-dit-een-grap-zijn~aab97f7b/), *Algemeen Dagblad*.
 * l’Ami, Dennis (12 Augustus 2021) [Anticorruptiewaakhond: Integriteit is geen prioriteit voor Rutte III](https://www.ftm.nl/artikelen/integriteit-geen-prioriteit), *Follow The Money*.
 * NOS (29 June 2021) [Peilingwijzer: VVD blijft grootste, CDA verder in de min na vertrek Omtzigt](https://nos.nl/artikel/2387263-peilingwijzer-vvd-blijft-grootste-cda-verder-in-de-min-na-vertrek-omtzigt).
 * l’Ami, Dennis (26 June 2021) [CDA-donateurs spinnen garen bij aanpassingen verkiezingsprogramma](https://www.ftm.nl/artikelen/donateurs-cda-verkiezingsprogramma), *Follow The Money*.
+* Hendrickx, Frank & Pieter Sabel (15 June 2021) [Een politieke advertentie op Facebook heeft effect – voor een oppositiepartij dan ](https://www.volkskrant.nl/nieuws-achtergrond/een-politieke-advertentie-op-facebook-heeft-effect-voor-een-oppositiepartij-dan~b6005fd8/), *De Volkskrant*.
 * Biesbroek, Sil & Joy Schenk (15 April 2021) [Hoe betrouwbaar zijn zetelpeilingen?](https://www.instagram.com/p/CNsPElqFmBT/), *De factcheckers*.
 * Kirby, Paul (2 April 2021) [Mark Rutte: Survivor of Dutch politics in fight for political life](https://www.bbc.com/news/world-europe-39289468), *BBC News*.
 * Wieringa, Rein (24 March 2021) [D66 en VVD profiteren van het restzetelsysteem](https://www.nrc.nl/nieuws/2021/03/24/d66-en-vvd-profiteren-van-het-restzetelsysteem-a4037190), *NRC Handelsblad*.
