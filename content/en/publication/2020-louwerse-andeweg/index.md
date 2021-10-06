@@ -9,7 +9,7 @@ selected=true
 doi = "10.4337/9781788977098.00031"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://www.elgaronline.com/view/edcoll/9781788977081/9781788977081.00031.xml"
+url_pdf = ""
 projects=["political-representation"]
 url_slides = ""
 url_video = ""
@@ -18,3 +18,4 @@ publication_types = ["6"]
 
 +++
 
+The PDF is made available on this personal site, in accordance with the [Taverne amendment](https://scholarlypublications.universiteitleiden.nl/handle/1887/license:4).
