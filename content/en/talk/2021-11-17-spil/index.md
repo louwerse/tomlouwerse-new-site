@@ -18,7 +18,7 @@ location = "Universiteit Leiden, Wijnhaven"
 
 # Name of event and optional event URL.
 event = "What comes after elections?"
-event_url = ""
+event_url = "https://www.spilplaats.nl/"
 
 # Abstract. What's your talk about?
 abstract = "During this SPIL event I and other experts discussed the coalition formation process in West European countries."
