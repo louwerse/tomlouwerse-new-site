@@ -18,4 +18,4 @@ publication_types = ["2"]
 
 +++
 
-This is the editorial to the special issue Parliaments in the Low Countries: Representing Divided Societies which I co-edied with Benjamin de Vet.
+This is the editorial to the special issue Parliaments in the Low Countries: Representing Divided Societies which I co-edited with Benjamin de Vet.
