@@ -13,12 +13,21 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
-## 2021
+## 2022
+* Heller, Albert (13 January 2022) [Burgemeesters die niet willen handhaven, wankelt het gezag? ‘Dit veroorzaakt anarchie’ ](https://www.gelderlander.nl/home/burgemeesters-die-niet-willen-handhaven-wankelt-het-gezag-dit-veroorzaakt-anarchie~a9d3edc7/), *De Gelderlander*.
+* *Nederlands Dagblad* (10 January 2022) [Het nieuwe kabinet is diverser dan ooit - maar niet in alles](https://www.nd.nl/nieuws/politiek/1078238/het-nieuwe-kabinet-is-diverser-dan-ooit-maar-niet-in-alles).
 
+## 2021
+* *NOS* (22 December 2021) [Peilingwijzer: coalitiepartijen in de min, nieuwkomers blijven stijgen ](https://nos.nl/artikel/2410539-peilingwijzer-coalitiepartijen-in-de-min-nieuwkomers-blijven-stijgen).
+* *NOS* (15 October 2021) [Peilingwijzer: D66 verliest meer terrein in moeizame formatie](https://nos.nl/artikel/2401803-peilingwijzer-d66-verliest-meer-terrein-in-moeizame-formatie).
+* *BNR Nieuwsradio* (12 October 2021) [Stemt de rijkere kiezer ineens vooral links?](https://www.bnr.nl/podcast/factgurus/10456011/stemt-de-rijkere-kiezer-ineens-vooral-links).
+* Albers, Casper (29 September 2021) [Er zijn 64.605 verschillende coalities die op een kamermeerderheid kunnen rekenen ](https://www.volkskrant.nl/columns-opinie/er-zijn-64-605-verschillende-coalities-die-op-een-kamermeerderheid-kunnen-rekenen~bd5e4f81/), *De Volkskrant*.
+* Chabot, Maurits & Iñaki Oñorbe Genovesi (21 September 2021) [‘Formeren met het idee ‘god zegene de greep’ is geen goed uitgangspunt om mee te hervormen’](https://www.volkskrant.nl/columns-opinie/formeren-met-het-idee-god-zegene-de-greep-is-geen-goed-uitgangspunt-om-mee-te-hervormen~bc586df7/), *De Volkskrant*.
 * *Editie NL* (3 September 2021) [Minderheidskabinet als laatste optie? Kleine partijen zien er heil in](https://www.rtlnieuws.nl/editienl/artikel/5252028/minderheidskabinet-formatie-marriete-hamer-kleine-partijen)
+*  Den Boon, Jasper (30 Augustus 2021) [Het Meest Waardevolle Kamerlid](https://www.nd.nl/cultuur/media/1058069/viral-kun-je-op-basis-van-statistieken-zeggen-wie-het-beste-kam), *Nederlands Dagblad*.
 * Klaassen, Niels & Peter Winterman (20 Augustus 2021) [Felle kritiek op blokvorming PvdA en GroenLinks: ‘Laat dit een grap zijn’](https://www.ad.nl/politiek/felle-kritiek-op-blokvorming-pvda-en-groenlinks-laat-dit-een-grap-zijn~aab97f7b/), *Algemeen Dagblad*.
 * l’Ami, Dennis (12 Augustus 2021) [Anticorruptiewaakhond: Integriteit is geen prioriteit voor Rutte III](https://www.ftm.nl/artikelen/integriteit-geen-prioriteit), *Follow The Money*.
-* NOS (29 June 2021) [Peilingwijzer: VVD blijft grootste, CDA verder in de min na vertrek Omtzigt](https://nos.nl/artikel/2387263-peilingwijzer-vvd-blijft-grootste-cda-verder-in-de-min-na-vertrek-omtzigt).
+* *NOS* (29 June 2021) [Peilingwijzer: VVD blijft grootste, CDA verder in de min na vertrek Omtzigt](https://nos.nl/artikel/2387263-peilingwijzer-vvd-blijft-grootste-cda-verder-in-de-min-na-vertrek-omtzigt).
 * l’Ami, Dennis (26 June 2021) [CDA-donateurs spinnen garen bij aanpassingen verkiezingsprogramma](https://www.ftm.nl/artikelen/donateurs-cda-verkiezingsprogramma), *Follow The Money*.
 * Hendrickx, Frank & Pieter Sabel (15 June 2021) [Een politieke advertentie op Facebook heeft effect – voor een oppositiepartij dan ](https://www.volkskrant.nl/nieuws-achtergrond/een-politieke-advertentie-op-facebook-heeft-effect-voor-een-oppositiepartij-dan~b6005fd8/), *De Volkskrant*.
 * Biesbroek, Sil & Joy Schenk (15 April 2021) [Hoe betrouwbaar zijn zetelpeilingen?](https://www.instagram.com/p/CNsPElqFmBT/), *De factcheckers*.
