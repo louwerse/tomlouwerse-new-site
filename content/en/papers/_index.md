@@ -17,6 +17,9 @@ Nagtzaam, M. & Louwerse, T. (2021) Geographical representation under a single na
 
 Otjes, S., & Louwerse, T. (2021) The Reinvention of Consensus Politics: Majority and minority government in the Netherlands 2007-2021. Paper presented at the Online Conference of the Council for European Studies, 21-24 June.
 
+Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication:
+A Comparative Field Experiment. Paper presented at the Annual Meeting of the American Political Science Association (Virtual session), 30 September.
+
 ### 2020
 
 Baumann, M., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2020) The Responsiveness of MPs to Citizen-Initiated Policy Queries; A Proposal for a Pre-Analysis Plan. Paper presented at the ECPR Virtual General Conference, 24-28 August.
