@@ -20,6 +20,9 @@ Otjes, S., & Louwerse, T. (2021) The Reinvention of Consensus Politics: Majority
 Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication:
 A Comparative Field Experiment. Paper presented at the Annual Meeting of the American Political Science Association (Virtual session), 30 September.
 
+Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication:
+A Comparative Field Experiment. Paper presented at the Leiden Political Science Workshop, 28 October.
+
 ### 2020
 
 Baumann, M., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2020) The Responsiveness of MPs to Citizen-Initiated Policy Queries; A Proposal for a Pre-Analysis Plan. Paper presented at the ECPR Virtual General Conference, 24-28 August.
