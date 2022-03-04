@@ -14,10 +14,15 @@ caption = "SRF Interview April 2016"
 Media appearances and mentions:
 
 ## 2022
+
+* Baar, Dories van (28 February 2022) [Noord-Hollanders voelen zich niet altijd vertegenwoordigd door gekozen lokale partij ](https://www.nhnieuws.nl/nieuws/300286/noord-hollanders-voelen-zich-niet-altijd-vertegenwoordigd-door-gekozen-lokale-partij), *NH Nieuws*.
+* Haye, Freek (25 February 2022) [Geen sprake van historisch laag vertrouwen in de politiek](https://nieuwscheckers.nl/geen-sprake-van-historisch-laag-vertrouwen-in-de-politiek/), *Nieuwscheckers*. 
+* Wierda, Wessel (23 February 2022) [De opkomst van de wappermoties](https://www.nrc.nl/nieuws/2022/02/23/de-opkomst-van-de-wappermoties-a4093208), *NRC*.
 * Heller, Albert (13 January 2022) [Burgemeesters die niet willen handhaven, wankelt het gezag? ‘Dit veroorzaakt anarchie’ ](https://www.gelderlander.nl/home/burgemeesters-die-niet-willen-handhaven-wankelt-het-gezag-dit-veroorzaakt-anarchie~a9d3edc7/), *De Gelderlander*.
 * *Nederlands Dagblad* (10 January 2022) [Het nieuwe kabinet is diverser dan ooit - maar niet in alles](https://www.nd.nl/nieuws/politiek/1078238/het-nieuwe-kabinet-is-diverser-dan-ooit-maar-niet-in-alles).
 
 ## 2021
+
 * *NOS* (22 December 2021) [Peilingwijzer: coalitiepartijen in de min, nieuwkomers blijven stijgen ](https://nos.nl/artikel/2410539-peilingwijzer-coalitiepartijen-in-de-min-nieuwkomers-blijven-stijgen).
 * *NOS* (15 October 2021) [Peilingwijzer: D66 verliest meer terrein in moeizame formatie](https://nos.nl/artikel/2401803-peilingwijzer-d66-verliest-meer-terrein-in-moeizame-formatie).
 * *BNR Nieuwsradio* (12 October 2021) [Stemt de rijkere kiezer ineens vooral links?](https://www.bnr.nl/podcast/factgurus/10456011/stemt-de-rijkere-kiezer-ineens-vooral-links).
