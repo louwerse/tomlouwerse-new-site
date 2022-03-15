@@ -1,7 +1,7 @@
 +++
 publishDate = 2018-07-03T09:00:00
 title = "Data in Representative Democracy"
-date = 2018-07-03T9:00:00
+date = 2018-07-03T09:00:00
 date_end = 2018-07-03T12:00:00
 abstract = ""
 abstract_short = ""
