@@ -1,6 +1,7 @@
 +++
 # Date this page was created.
 date = 2017-07-10T00:00:00
+show_date = false
 
 # Project title.
 title = "Parliaments: rules and behaviour"

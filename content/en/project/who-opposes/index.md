@@ -6,6 +6,7 @@ tags:
 - parliaments
 - representation
 date: "2019-10-02T00:00:00Z"
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

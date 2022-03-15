@@ -6,6 +6,7 @@ weight: 15
 title: Research 
 subtitle: Themes and Projects
 content:
+  show_date: false
   page_type: project
   filter_default: 0
   filter_button:

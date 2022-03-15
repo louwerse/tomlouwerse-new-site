@@ -1,6 +1,7 @@
 +++
 # Date this page was created.
 date = 2018-10-01
+show_date = false
 
 # Project title.
 title = "The Nature of Political Representation in Times of Dealignment"

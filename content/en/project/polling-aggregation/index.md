@@ -1,5 +1,6 @@
 +++
 date = "2017-07-10"
+show_date = false
 
 # Project title.
 title = "Polling Aggregation"
