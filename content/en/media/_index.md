@@ -15,6 +15,8 @@ Media appearances and mentions:
 
 ## 2022
 
+* Jortcast Grant Tour (14 May 2022) [De democratie is in gevaar | NPO Radio 1](https://www.youtube.com/watch?v=Bsx3ubqVUcg).
+* NOS (15 April 2022) [Peilingwijzer: VVD blijft onbedreigd de grootste, winst Volt verdampt](https://nos.nl/artikel/2425284-peilingwijzer-vvd-blijft-onbedreigd-de-grootste-winst-volt-verdampt).
 * Keken, Kim van & Dieuwertje Kuijpers (15 March 2022) [De gemeenteraadsverkiezingen zijn geen peilmomentje voor of tegen Rutte IV](https://www.vn.nl/gemeenteraadsverkiezingen-geen-peilmomentje/), *Vrij Nederland*.
 * Korteweg, Ariejan (10 March 2022) [Uitspraak in zaak-Gündogan-Volt wekt veel verbazing ](https://www.volkskrant.nl/nieuws-achtergrond/uitspraak-in-zaak-gundogan-volt-wekt-veel-verbazing~bd3c33dc/), *De Volkskrant*.
 * Verlaan, Jos (10 March 2022) [‘De uitspraak over Volt is een unicum in de parlementaire geschiedenis’](https://www.nrc.nl/nieuws/2022/03/10/uitspraak-over-volt-is-unicum-in-de-parlementaire-geschiedenis-a4100091), *NRC*.
