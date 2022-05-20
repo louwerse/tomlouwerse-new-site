@@ -10,6 +10,9 @@
 [nl]
   languageCode = "nl-nl"
   contentDir = "content/nl"
+  title = "Tom Louwerse"
+  [nl.params]
+    description = "Tom Louwerse, politicoloog Universiteit Leiden"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
