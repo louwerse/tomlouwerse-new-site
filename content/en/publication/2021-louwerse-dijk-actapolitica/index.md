@@ -2,9 +2,9 @@
 abstract = "This article examines the media coverage of vote intention polls in the Netherlands. We assess whether the quality of media reporting on polls depends on the availability of information regarding the quality in pollster’s reports. Our analysis of the quality looks at three different quality measures: (1) mentioning WAPOR items, such as field dates, sampling method, and polling method, (2) mentioning the margin of error, and (3) the correct interpretation of (in)significant changes and differences. The Netherlands provides an interesting case, because there is variation over time and across pollsters in the way they report their polls as well as the increased popularity of a polling aggregator. Our findings indicate that the overall quality of Dutch coverage of polls is low. When a pollster mentions the margin of error in its report, media reports on that poll are more likely to include this information and to correctly interpret the significance of differences between two parties. This effect is particularly visible when the pollster provides uncertainty intervals in its headline figures."
 
 authors = ["admin", "Rozemarijn E. van Dijk"]
-date = "2021-06-26"
+date = "2022-06-15"
 math = false
-publication = "*Acta Politica*"
+publication = "*Acta Politica*, 57(3): 548–570"
 title = "Reporting the polls: the quality of media reporting of vote intention polls in the Netherlands"
 selected=true
 doi = "10.1057/s41269-021-00208-5"
@@ -19,3 +19,4 @@ publication_types = ["2"]
 
 +++
 
+This article was published ahead of print on 26 June 2021.
