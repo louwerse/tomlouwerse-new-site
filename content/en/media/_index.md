@@ -15,6 +15,9 @@ Media appearances and mentions:
 
 ## 2022
 
+* NOS (1 July 2022) [Peilingwijzer: BBB op 9 tot 13 zetels, even groot als PvdA](https://nos.nl/artikel/2434789-peilingwijzer-bbb-op-9-tot-13-zetels-even-groot-als-pvda).
+* Keulemans, Maarten (28 June 2022) [Tussentijdse peilingen zijn beroerde graadmeter uiteindelijke verkiezingsuitslag ](https://www.volkskrant.nl/nieuws-achtergrond/tussentijdse-peilingen-zijn-beroerde-graadmeter-uiteindelijke-verkiezingsuitslag~b5663902/), *De Volksrkant*.
+* NOS (20 May 2022) [Peilingwijzer: D66 valt ver terug, ook VVD en CDA verliezen](https://nos.nl/artikel/2429586-peilingwijzer-d66-valt-ver-terug-ook-vvd-en-cda-verliezen).
 * Jortcast Grant Tour (14 May 2022) [De democratie is in gevaar | NPO Radio 1](https://www.youtube.com/watch?v=Bsx3ubqVUcg).
 * NOS (15 April 2022) [Peilingwijzer: VVD blijft onbedreigd de grootste, winst Volt verdampt](https://nos.nl/artikel/2425284-peilingwijzer-vvd-blijft-onbedreigd-de-grootste-winst-volt-verdampt).
 * Keken, Kim van & Dieuwertje Kuijpers (15 March 2022) [De gemeenteraadsverkiezingen zijn geen peilmomentje voor of tegen Rutte IV](https://www.vn.nl/gemeenteraadsverkiezingen-geen-peilmomentje/), *Vrij Nederland*.
