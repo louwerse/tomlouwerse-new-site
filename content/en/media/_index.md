@@ -15,11 +15,14 @@ Media appearances and mentions:
 
 ## 2022
 
-* NOS (1 July 2022) [Peilingwijzer: BBB op 9 tot 13 zetels, even groot als PvdA](https://nos.nl/artikel/2434789-peilingwijzer-bbb-op-9-tot-13-zetels-even-groot-als-pvda).
+* *RTL Nieuws* (2 August) [Geen feestje voor recordpremier Rutte, wel de vraag hoe lang hij nog blijft](https://www.rtlnieuws.nl/nieuws/artikel/5324429/mark-rutte-premier-vvd-feest-houdbaarheid-langstzittende-record-ruud-lubbers).
+* *NOS* (27 July) [Peilingwijzer: BBB schiet verder omhoog](https://nos.nl/artikel/2438502-peilingwijzer-bbb-schiet-verder-omhoog)
+* *De Tijd* (15 July 2022) [Caroline van der Plas, de hoop van boze boeren: ‘Mensen vinden het ontzettend leuk dat ik hun taal spreek’](https://www.tijd.be/politiek-economie/belgie/vlaanderen/caroline-van-der-plas-de-hoop-van-boze-boeren-mensen-vinden-het-ontzettend-leuk-dat-ik-hun-taal-spreek/10402144.html).
+* *NOS* (1 July 2022) [Peilingwijzer: BBB op 9 tot 13 zetels, even groot als PvdA](https://nos.nl/artikel/2434789-peilingwijzer-bbb-op-9-tot-13-zetels-even-groot-als-pvda).
 * Keulemans, Maarten (28 June 2022) [Tussentijdse peilingen zijn beroerde graadmeter uiteindelijke verkiezingsuitslag ](https://www.volkskrant.nl/nieuws-achtergrond/tussentijdse-peilingen-zijn-beroerde-graadmeter-uiteindelijke-verkiezingsuitslag~b5663902/), *De Volksrkant*.
-* NOS (20 May 2022) [Peilingwijzer: D66 valt ver terug, ook VVD en CDA verliezen](https://nos.nl/artikel/2429586-peilingwijzer-d66-valt-ver-terug-ook-vvd-en-cda-verliezen).
+* *NOS* (20 May 2022) [Peilingwijzer: D66 valt ver terug, ook VVD en CDA verliezen](https://nos.nl/artikel/2429586-peilingwijzer-d66-valt-ver-terug-ook-vvd-en-cda-verliezen).
 * Jortcast Grant Tour (14 May 2022) [De democratie is in gevaar | NPO Radio 1](https://www.youtube.com/watch?v=Bsx3ubqVUcg).
-* NOS (15 April 2022) [Peilingwijzer: VVD blijft onbedreigd de grootste, winst Volt verdampt](https://nos.nl/artikel/2425284-peilingwijzer-vvd-blijft-onbedreigd-de-grootste-winst-volt-verdampt).
+* *NOS* (15 April 2022) [Peilingwijzer: VVD blijft onbedreigd de grootste, winst Volt verdampt](https://nos.nl/artikel/2425284-peilingwijzer-vvd-blijft-onbedreigd-de-grootste-winst-volt-verdampt).
 * Keken, Kim van & Dieuwertje Kuijpers (15 March 2022) [De gemeenteraadsverkiezingen zijn geen peilmomentje voor of tegen Rutte IV](https://www.vn.nl/gemeenteraadsverkiezingen-geen-peilmomentje/), *Vrij Nederland*.
 * Korteweg, Ariejan (10 March 2022) [Uitspraak in zaak-Gündogan-Volt wekt veel verbazing ](https://www.volkskrant.nl/nieuws-achtergrond/uitspraak-in-zaak-gundogan-volt-wekt-veel-verbazing~bd3c33dc/), *De Volkskrant*.
 * Verlaan, Jos (10 March 2022) [‘De uitspraak over Volt is een unicum in de parlementaire geschiedenis’](https://www.nrc.nl/nieuws/2022/03/10/uitspraak-over-volt-is-unicum-in-de-parlementaire-geschiedenis-a4100091), *NRC*.
