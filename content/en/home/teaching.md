@@ -51,9 +51,9 @@ weight = 60
 
 +++
 
-I am teaching the following courses in the academic year 2021-2022:
+I am teaching the following courses in the academic year 2022-2003:
 
-* [Statistics I](https://studiegids.universiteitleiden.nl/en/courses/108769/statistiek-i-beschrijven-en-presenteren) (BSc Political Science Leiden, 1st year).
+* [Statistics I](https://studiegids.universiteitleiden.nl/en/courses/111668/statistiek-i-beschrijven-en-presenteren) (BSc Political Science Leiden, 1st year).
 
 For students, course information can be found on [Brightspace](https://brightspace.universiteitleiden.nl).
 
