@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 ## 2022
 
+* Brandemann, Ilse (22 September) [Politicoloog Tom Louwerse: ‘Wat de burger nu ziet, is een gepolariseerd debat’](https://www.nd.nl/nieuws/politiek/1142680/politicoloog-tom-louwerse-wat-de-burger-nu-ziet-is-een-gepolari), *Nederlands Dagblad*.
 * *RTL Nieuws* (2 August) [Geen feestje voor recordpremier Rutte, wel de vraag hoe lang hij nog blijft](https://www.rtlnieuws.nl/nieuws/artikel/5324429/mark-rutte-premier-vvd-feest-houdbaarheid-langstzittende-record-ruud-lubbers).
 * *NOS* (27 July) [Peilingwijzer: BBB schiet verder omhoog](https://nos.nl/artikel/2438502-peilingwijzer-bbb-schiet-verder-omhoog)
 * *De Tijd* (15 July 2022) [Caroline van der Plas, de hoop van boze boeren: ‘Mensen vinden het ontzettend leuk dat ik hun taal spreek’](https://www.tijd.be/politiek-economie/belgie/vlaanderen/caroline-van-der-plas-de-hoop-van-boze-boeren-mensen-vinden-het-ontzettend-leuk-dat-ik-hun-taal-spreek/10402144.html).
