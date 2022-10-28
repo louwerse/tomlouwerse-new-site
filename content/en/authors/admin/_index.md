@@ -43,7 +43,7 @@ social:
   icon_pack: fas
   link: 'mailto:t.p.louwerse@fsw.leidenuniv.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: mastodon
-  icon_pack: fa-brands
+  icon_pack: fab
   link: https://mastodon.social/@tomlouwerse
 - icon: twitter
   icon_pack: fab
