@@ -44,7 +44,7 @@ social:
   link: 'mailto:t.p.louwerse@fsw.leidenuniv.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: mastodon
   icon_pack: fab
-  link: https://mastodon.social/@tomlouwerse
+  link: https://akademienl.social/@tomlouwerse
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TomLouwerse
