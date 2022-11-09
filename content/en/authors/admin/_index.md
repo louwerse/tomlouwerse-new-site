@@ -51,9 +51,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/louwerse
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/author/1229399/tom-louwerse#profile
 - icon: dataverse
   icon_pack: ai
   link: https://dataverse.harvard.edu/dataverse/tomlouwerse

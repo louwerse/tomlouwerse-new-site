@@ -41,18 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:t.p.louwerse@fsw.leidenuniv.nl'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/TomLouwerse
+  link: https://akademienl.social/@tomlouwerse
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=aECGZgEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/louwerse
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/author/1229399/tom-louwerse#profile
 - icon: dataverse
   icon_pack: ai
   link: https://dataverse.harvard.edu/dataverse/tomlouwerse
