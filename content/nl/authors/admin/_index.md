@@ -72,9 +72,9 @@ user_groups:
 - Principal Investigators
 ---
 
-Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse). Mijn onderzoek en onderwijs richt zich op verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën.
+Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/tom-louwerse#tab-1). Mijn onderzoek en onderwijs richt zich op verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën.
 
-Op dit moment werk ik aan twee grote onderzoeksprojecten. *The Nature of Political Representation in Times of Dealignment*, ondersteund door de *Open Research Area*, onderzoekt de kwaliteit en de aard van politieke vertegenwoordiging. Het project *Who opposes?* richt zich op de samenwerking tussen regering en oppositie in het parlement en wordt ondersteund door een Vidi-subsidie van NWO.
+Mijn belangrijkste onderzoeksproject, *Who opposes?*, richt zich op samenwerking tussen regering en oppositie in het parlement en wordt gefinancieerd door een Vidi-subsidie van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO).
 
 Mijn outreachactiviteiten omvatten de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) en de [Irish Polling Indicator](https://www.pollingindicator.com). Ik ben lid van [Young Academy Leiden](https://www.universiteitleiden.nl/yal).
 
