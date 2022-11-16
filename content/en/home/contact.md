@@ -1,18 +1,37 @@
-+++
-# Contact widget.
+---
+# An instance of the Contact widget.
+widget: contact
 
-date = "2016-04-20T00:00:00"
-draft = false
+# This file represents a page section.
+headless: true
 
-title = "Contact"
-subtitle = ""
-widget = "contact"
+# Order that this section appears on the page.
+weight: 80
 
-# Order that this section will appear in.
-weight = 70
+title: Contact
+subtitle:
 
-# Automatically link email and phone?
-autolink = true
+content:
+    # Automatically link email and phone or display as text?
+    autolink: true
 
-+++
+    # Contact details (edit or remove options as required)
+    email: t.p.louwerse@fsw.leidenuniv.nl
+    phone: +31 71 527 8068
+    address:
+        street: Wassenaarseweg 52
+        city: 2333 AK, Leiden
+        region: ''
+        postcode: ''
+        country: Netherlands
+        country_code: NL
+    coordinates:
+    latitude: '37.4275'
+    longitude: '-122.1697'
+    directions: ''
+    office_hours: '' 
+
+design:
+  columns: '2'
+---
 
