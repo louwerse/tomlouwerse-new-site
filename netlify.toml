@@ -30,6 +30,6 @@ package = "netlify-plugin-mastodon-alias"
 
 [plugins.inputs]
     username = "tomlouwerse"
-    instance = "akademienl.nl"
+    instance = "akademienl.social"
     # delete or comment the next line if you want "*@tomlouwerse.nl" to work rather than just "tom@tomlouwerse.nl"
     # strictUsername = "tom"
