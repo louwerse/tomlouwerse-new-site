@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "netlify-plugin-mastodon-alias": "^1.0.1"
+  }
+}
