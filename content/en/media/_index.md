@@ -13,11 +13,21 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
+## 2023
+
+* *NOS* (17 February) [Statenpeilingen: VVD op kop, maar GroenLinks/PvdA mogelijk nog groter](https://nos.nl/collectie/13923/artikel/2464217-statenpeilingen-vvd-op-kop-maar-groenlinks-pvda-mogelijk-nog-groter).
+* Kuijpers, Dieuwertje (14 February) [Motie-inflatie: hoe moties zijn verworden tot politieke statements](https://www.vn.nl/motie-inflatie/), *Vrij Nederland*.
+* *NOS* (12 February) [Animo bij Nederlanders in het buitenland voor invloed op Eerste Kamer blijft achter](https://nos.nl/artikel/2463517-animo-bij-nederlanders-in-het-buitenland-voor-invloed-op-eerste-kamer-blijft-achter).
+* Kuijpers, Dieuwertje (24 January) [Hoe plakbandpolitiek steeds weer voor problemen zorgt](https://www.vn.nl/deel-3-plakbandpolitiek/), *Vrij Nederland*.
+
 ## 2022
 
+* Lambie, Fons (31 December) [Zijn dagen in Nederland lijken geteld, maar in Europa is Rutte juist machtig](https://www.rtlnieuws.nl/nieuws/artikel/5356102/mark-rutte-vertrouwen-laag-eu-europa-machtig-europese-raad), *RTL Nieuws*.
+* *NOS* (26 October) [Peilingwijzer: verlies voor VVD, winst voor PVV en PvdD](https://nos.nl/artikel/2449800-peilingwijzer-verlies-voor-vvd-winst-voor-pvv-en-pvdd).
 * Brandemann, Ilse (22 September) [Politicoloog Tom Louwerse: ‘Wat de burger nu ziet, is een gepolariseerd debat’](https://www.nd.nl/nieuws/politiek/1142680/politicoloog-tom-louwerse-wat-de-burger-nu-ziet-is-een-gepolari), *Nederlands Dagblad*.
 * *RTL Nieuws* (2 August) [Geen feestje voor recordpremier Rutte, wel de vraag hoe lang hij nog blijft](https://www.rtlnieuws.nl/nieuws/artikel/5324429/mark-rutte-premier-vvd-feest-houdbaarheid-langstzittende-record-ruud-lubbers).
 * *NOS* (27 July) [Peilingwijzer: BBB schiet verder omhoog](https://nos.nl/artikel/2438502-peilingwijzer-bbb-schiet-verder-omhoog)
+* *Reformatorisch Dagblad* (15 July) ,,Senaat te weinig rolvast", klagen senatoren.
 * *De Tijd* (15 July 2022) [Caroline van der Plas, de hoop van boze boeren: ‘Mensen vinden het ontzettend leuk dat ik hun taal spreek’](https://www.tijd.be/politiek-economie/belgie/vlaanderen/caroline-van-der-plas-de-hoop-van-boze-boeren-mensen-vinden-het-ontzettend-leuk-dat-ik-hun-taal-spreek/10402144.html).
 * *NOS* (1 July 2022) [Peilingwijzer: BBB op 9 tot 13 zetels, even groot als PvdA](https://nos.nl/artikel/2434789-peilingwijzer-bbb-op-9-tot-13-zetels-even-groot-als-pvda).
 * Keulemans, Maarten (28 June 2022) [Tussentijdse peilingen zijn beroerde graadmeter uiteindelijke verkiezingsuitslag ](https://www.volkskrant.nl/nieuws-achtergrond/tussentijdse-peilingen-zijn-beroerde-graadmeter-uiteindelijke-verkiezingsuitslag~b5663902/), *De Volkskrant*.
