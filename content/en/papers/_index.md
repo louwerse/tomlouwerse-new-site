@@ -11,6 +11,12 @@ highlight = false
 
 +++
 
+### 2022
+
+Louwerse, T. & Van Well, R. (2022) Government-opposition distinctiveness in legislatures: A longitudinal analysis. Paper presented at the EPSA General Conference, 23-25 June, Prague.
+
+Louwerse, T. & Van Well, R. (2022) Government-opposition distinctiveness in legislatures: A longitudinal analysis. Paper presented at the Politicologenetmaal, 16-17 June, Nijmegen.
+
 ### 2021
 
 Nagtzaam, M. & Louwerse, T. (2021) Geographical representation under a single nationwide district: the case of the Netherlands. Paper presented at the 6th Conference of the ECPR Standing Group on Parliaments, Virtual Event, 1-2 July 2021.
