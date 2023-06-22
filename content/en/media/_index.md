@@ -15,8 +15,10 @@ Media appearances and mentions:
 
 ## 2023
 
+* l'Ami, Dennis (5 May 2023) [Kunnen tegenpolen BBB en GroenLinks samen?](https://www.ad.nl/alphen-aan-den-rijn/kunnen-absolute-tegenpolen-bbb-en-groenlinks-eigenlijk-wel-samen-de-provincie-besturen~a38acea7/), *Algemeen Dagblad*.
 * *NOS* (14 March 2023) [Statenpeilingen: opmars BBB, VVD levert tijdens campagne juist iets in](https://nos.nl/collectie/13923/artikel/2467488-statenpeilingen-opmars-bbb-vvd-levert-tijdens-campagne-juist-iets-in).
 * *NOS* (12 March 2023) [Statenpeilingen: BBB heeft wind mee, PvdA/GroenLinks mogelijk grootste fractie](https://nos.nl/artikel/2467146-statenpeilingen-bbb-heeft-wind-mee-pvda-groenlinks-mogelijk-grootste-fractie).
+* Brandsema, Leon (2 March 2023) Minderheid in senaat biedt mogelijkheden; Verkiezingen Provinciale Staten, *De Telegraaf*.
 * *NOS* (17 February 2023) [Statenpeilingen: VVD op kop, maar GroenLinks/PvdA mogelijk nog groter](https://nos.nl/collectie/13923/artikel/2464217-statenpeilingen-vvd-op-kop-maar-groenlinks-pvda-mogelijk-nog-groter).
 * Kuijpers, Dieuwertje (14 February 2023) [Motie-inflatie: hoe moties zijn verworden tot politieke statements](https://www.vn.nl/motie-inflatie/), *Vrij Nederland*.
 * *NOS* (12 February 2023) [Animo bij Nederlanders in het buitenland voor invloed op Eerste Kamer blijft achter](https://nos.nl/artikel/2463517-animo-bij-nederlanders-in-het-buitenland-voor-invloed-op-eerste-kamer-blijft-achter).
