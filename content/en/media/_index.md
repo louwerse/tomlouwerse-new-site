@@ -15,6 +15,9 @@ Media appearances and mentions:
 
 ## 2023
 
+* *ARTE Journal* (11 July 2023) [Niederlande: Rückzug Rutte](https://www.arte.tv/de/videos/112539-136-A/arte-journal-10-07-2023/).
+* Universiteit Leiden (10 July 2023) [Dit zeggen onze experts over het vertrek van Mark Rutte](https://www.universiteitleiden.nl/nieuws/2023/07/dit-zeggen-onze-experts-over-het-vertrek-van-mark-rutte).
+* *NOS* (28 June 2023) [Peilingwijzer: VVD en BBB zij aan zij als grootste partijen](https://nos.nl/artikel/2480574-peilingwijzer-vvd-en-bbb-zij-aan-zij-als-grootste-partijen).
 * l'Ami, Dennis (5 May 2023) [Kunnen tegenpolen BBB en GroenLinks samen?](https://www.ad.nl/alphen-aan-den-rijn/kunnen-absolute-tegenpolen-bbb-en-groenlinks-eigenlijk-wel-samen-de-provincie-besturen~a38acea7/), *Algemeen Dagblad*.
 * *NOS* (14 March 2023) [Statenpeilingen: opmars BBB, VVD levert tijdens campagne juist iets in](https://nos.nl/collectie/13923/artikel/2467488-statenpeilingen-opmars-bbb-vvd-levert-tijdens-campagne-juist-iets-in).
 * *NOS* (12 March 2023) [Statenpeilingen: BBB heeft wind mee, PvdA/GroenLinks mogelijk grootste fractie](https://nos.nl/artikel/2467146-statenpeilingen-bbb-heeft-wind-mee-pvda-groenlinks-mogelijk-grootste-fractie).
