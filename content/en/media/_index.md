@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 ## 2023
 
+* *Met het oog op morgen* (17 July 2023) [Over de gezamenlijke lijst van PvdA en GroenLinks](https://www.nporadio1.nl/uitzendingen/nos-met-het-oog-op-morgen/31d7a9f8-8e77-47bc-86c1-26f384fac318/2023-07-17-nos-met-het-oog-op-morgen).
 * *ARTE Journal* (11 July 2023) [Niederlande: Rückzug Rutte](https://www.arte.tv/de/videos/112539-136-A/arte-journal-10-07-2023/).
 * Universiteit Leiden (10 July 2023) [Dit zeggen onze experts over het vertrek van Mark Rutte](https://www.universiteitleiden.nl/nieuws/2023/07/dit-zeggen-onze-experts-over-het-vertrek-van-mark-rutte).
 * *NOS* (28 June 2023) [Peilingwijzer: VVD en BBB zij aan zij als grootste partijen](https://nos.nl/artikel/2480574-peilingwijzer-vvd-en-bbb-zij-aan-zij-als-grootste-partijen).
