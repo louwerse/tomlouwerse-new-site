@@ -72,9 +72,10 @@ user_groups:
 - Principal Investigators
 ---
 
-Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/tom-louwerse#tab-1). Mijn onderzoek en onderwijs richt zich op verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën.
+Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/tom-louwerse#tab-1). Ik ben momenteel onderzoeksdirecteur van het [Instituut Polititeke Wetenschap](https://www.universiteitleiden.nl/sociale-wetenschappen/politieke-wetenschap).
 
-Mijn belangrijkste onderzoeksproject, *Who opposes?*, richt zich op samenwerking tussen regering en oppositie in het parlement en wordt gefinancieerd door een Vidi-subsidie van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO).
+
+Mijn onderzoek en onderwijs gaat over verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën. Mijn belangrijkste onderzoeksproject, *Who opposes?*, richt zich op samenwerking tussen regering en oppositie in het parlement en wordt gefinancieerd door een Vidi-subsidie van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO).
 
 Mijn outreachactiviteiten omvatten de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) en de [Irish Polling Indicator](https://www.pollingindicator.com). Ik ben lid van [Young Academy Leiden](https://www.universiteitleiden.nl/yal).
 
