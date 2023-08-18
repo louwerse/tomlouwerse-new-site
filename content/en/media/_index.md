@@ -15,9 +15,11 @@ Media appearances and mentions:
 
 ## 2023
 
+* Loon, Wouter van, Marko de Haan & Roos Liefting (18 August 2023) [Áls Omtzigt meedoet aan de verkiezingen, waar staat hij dan voor? Een analyse van zijn stemgedrag](https://www.nrc.nl/nieuws/2023/08/17/zo-stemde-pieter-omtzigt-a4172206), *NRC*.
 * *RTL Nieuws* (12 August 2023) [Rob Jetten officieel gekozen tot lijsttrekker](https://www.rtlnieuws.nl/video/uitzendingen/video/5401405/rtl-nieuws-1930-uur).
 * *Editie NL* (7 August 2023) [Gezocht: kamerlid](https://www.rtlnieuws.nl/video/uitzendingen/video/5400427/aflevering-219).
 * *Met het oog op morgen* (17 July 2023) [Over de gezamenlijke lijst van PvdA en GroenLinks](https://www.nporadio1.nl/uitzendingen/nos-met-het-oog-op-morgen/31d7a9f8-8e77-47bc-86c1-26f384fac318/2023-07-17-nos-met-het-oog-op-morgen).
+* Kuijpers, Dieuwertje (24 July 2023) [Oppositiepartijen roepen nee, maar stemmen meestal ja](https://www.vn.nl/oppositiepartijen-roepen-nee-maar-stemmen-meestal-ja/), *Vrij Nederland*.
 * *ARTE Journal* (11 July 2023) [Niederlande: Rückzug Rutte](https://www.arte.tv/de/videos/112539-136-A/arte-journal-10-07-2023/).
 * Universiteit Leiden (10 July 2023) [Dit zeggen onze experts over het vertrek van Mark Rutte](https://www.universiteitleiden.nl/nieuws/2023/07/dit-zeggen-onze-experts-over-het-vertrek-van-mark-rutte).
 * *NOS* (28 June 2023) [Peilingwijzer: VVD en BBB zij aan zij als grootste partijen](https://nos.nl/artikel/2480574-peilingwijzer-vvd-en-bbb-zij-aan-zij-als-grootste-partijen).
