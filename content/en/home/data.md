@@ -57,4 +57,4 @@ Replication data sources for many of my publications are available via [my Harva
 ## Dutch Parliamentary Behaviour Dataset
 Data from the Dutch Parliamentary Behaviour Dataset project (with [Simon Otjes](https://www.simonotjes.nl/), [Cynthia van Vonno](https://www.universiteitleiden.nl/en/staffmembers/cynthia-van-vonno) and [Harmen van der Veer](https://www.universiteitleiden.nl/medewerkers/harmen-van-der-veer#tab-1)) is available in [this dataverse](https://dataverse.harvard.edu/dataverse/dutchparl). The R package for working with this data is on Github: [louwerse/dutchparl](https://louwerse.github.io/dutchparl/).
 
-A recent, development version of the data (including data up to 10 July 2023), is available for [download here](https://surfdrive.surf.nl/files/index.php/s/z7tr5TJvcSeno6b).
+A recent, development version of the data (including data up to 10 July 2023), is available for [download here](/data/version_2023-07-10.zip).
