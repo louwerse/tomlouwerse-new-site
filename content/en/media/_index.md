@@ -15,6 +15,8 @@ Media appearances and mentions:
 
 ## 2023
 
+* *EenVandaag* (21 August 2023) [Pieter Omtzigt wil bestuurlijke vernieuwing, maar moet volgens politicologen uitkijken: 'Lukte D66 ook niet'](https://eenvandaag.avrotros.nl/item/pieter-omtzigt-wil-bestuurlijke-vernieuwing-maar-moet-volgens-politicologen-uitkijken-lukte-d66-ook-niet/).
+* Van Teutem, Simon (21 August 2023) [Omtzigt wil de democratie vernieuwen. Mooi. En daarna? ](https://decorrespondent.nl/14747/omtzigt-wil-de-democratie-vernieuwen-mooi-en-daarna/b54cd1b2-66e3-0d41-3d93-aff8b10f19f4), *De Correspondent*.
 * Loon, Wouter van, Marko de Haan & Roos Liefting (18 August 2023) [Áls Omtzigt meedoet aan de verkiezingen, waar staat hij dan voor? Een analyse van zijn stemgedrag](https://www.nrc.nl/nieuws/2023/08/17/zo-stemde-pieter-omtzigt-a4172206), *NRC*.
 * *RTL Nieuws* (12 August 2023) [Rob Jetten officieel gekozen tot lijsttrekker](https://www.rtlnieuws.nl/video/uitzendingen/video/5401405/rtl-nieuws-1930-uur).
 * *Editie NL* (7 August 2023) [Gezocht: kamerlid](https://www.rtlnieuws.nl/video/uitzendingen/video/5400427/aflevering-219).
