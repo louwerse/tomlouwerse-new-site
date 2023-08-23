@@ -7,7 +7,7 @@ math = false
 publication = "*Acta Politica*, online first"
 title = "The reinvention of consensus politics: governing without a legislative majority in the Netherlands 2010–2021"
 selected=true
-doi = "https://link.springer.com/article/10.1057/s41269-023-00310-w"
+doi = "10.1057/s41269-023-00310-w"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://link.springer.com/content/pdf/10.1057/s41269-023-00310-w.pdf?pdf=button"
