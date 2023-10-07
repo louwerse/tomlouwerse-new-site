@@ -15,6 +15,10 @@ Media appearances and mentions:
 
 ## 2023
 
+* *NOS* (28 September 2023) [Peilingwijzer: VVD, NSC en GroenLinks-PvdA ontlopen elkaar weinig](https://nos.nl/artikel/2492144-peilingwijzer-vvd-nsc-en-groenlinks-pvda-ontlopen-elkaar-weinig).
+* Wisse, Joeri (28 September 2023) [Heeft Omtzigt nu wel of geen Zeeuwen op lijst NSC gezet? ‘Opvallend dat juist hij met deze lijst komt’](https://www.pzc.nl/zeeuws-nieuws/heeft-omtzigt-nu-wel-of-geen-zeeuwen-op-lijst-nsc-gezet-opvallend-dat-juist-hij-met-deze-lijst-komt~a431c32a/?referrer=https%3A%2F%2Fduckduckgo.com%2F), *PZC*.
+* Boztas, Senay (20 September 2023) [What’s all the fuss about the far right in the Netherlands?](https://www.dutchnews.nl/2023/09/whats-all-the-fuss-about-the-far-right-in-the-netherlands/), *DutchNews*.
+* *NOS* (5 September 2023) [Peilingwijzer: partij Omtzigt grootste, gevolgd door VVD en PvdA-GL](https://nos.nl/collectie/13944/artikel/2489370-peilingwijzer-partij-omtzigt-grootste-gevolgd-door-vvd-en-pvda-gl).
 * *EenVandaag* (21 August 2023) [Pieter Omtzigt wil bestuurlijke vernieuwing, maar moet volgens politicologen uitkijken: 'Lukte D66 ook niet'](https://eenvandaag.avrotros.nl/item/pieter-omtzigt-wil-bestuurlijke-vernieuwing-maar-moet-volgens-politicologen-uitkijken-lukte-d66-ook-niet/).
 * Van Teutem, Simon (21 August 2023) [Omtzigt wil de democratie vernieuwen. Mooi. En daarna? ](https://decorrespondent.nl/14747/omtzigt-wil-de-democratie-vernieuwen-mooi-en-daarna/b54cd1b2-66e3-0d41-3d93-aff8b10f19f4), *De Correspondent*.
 * Loon, Wouter van, Marko de Haan & Roos Liefting (18 August 2023) [Áls Omtzigt meedoet aan de verkiezingen, waar staat hij dan voor? Een analyse van zijn stemgedrag](https://www.nrc.nl/nieuws/2023/08/17/zo-stemde-pieter-omtzigt-a4172206), *NRC*.
