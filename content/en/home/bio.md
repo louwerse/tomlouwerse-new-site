@@ -35,7 +35,7 @@ In addition to my regular academic work (research and teaching), I am Director o
 
 #### Professional service and outreach
 
-I fulfil various professional service roles. I am a member of the [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden), an interdisciplinary group of young academics at Leiden University. I acted as its chair from January 2019 to August 2020. I am a board member of Leiden University's [Centre for Dutch Politics and Governance](https://www.universiteitleiden.nl/cnpb) and the [Centre for the Study of Political Parties and Representation](https://www.universiteitleiden.nl/en/csppr).
+I fulfil various professional service roles. I am a member of the [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden), an interdisciplinary group of young academics at Leiden University. I acted as its chair from January 2019 to August 2020. I am a board member of Leiden University's [Centre for Dutch Politics and Governance](https://www.universiteitleiden.nl/cnpb).
 
 Between 2015 and 2021, I was a member and later chair of the steering committee of the [Standing Group on Parliaments](http://standinggroups.ecpr.eu/parliaments/), one of the largest and most active specialist groups within the European Consortium for Political Research (ECPR). In 2017 and 2018, I co-organized the Dutch Flemish Political Science conference [*Politicologenetmaal*](http://politicologenetmaal.eu/) with Hans Vollaard, Corinna Jentzsch and Nicolas Blarel in Leiden. In 2019, I co-organized the [Standing Group on Parliaments Conference](http://standinggroups.ecpr.eu/parliaments/?page_id=499) in Leiden with Rudy Andeweg, Tim Mickler and Cynthia van Vonno.
 
