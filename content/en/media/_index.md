@@ -15,6 +15,16 @@ Media appearances and mentions:
 
 ## 2023
 
+* De Jong, Annemarie & Ivo Laan (18 November 2023) [Loyale senior is tegenwoordig kiezer op drift](https://www.leidschdagblad.nl/cnt/dmf20231117_54321883), *Leidsch Dagblad* & *Noordhollands Dagblad*.
+* Sterling, Toby & Stephanie van den Berg (16 November 2023) [Without Rutte, Dutch election centres on cost-of-living, climate and immigration](https://www.reuters.com/world/europe/without-rutte-dutch-election-centres-cost-of-living-climate-immigration-2023-11-16/), *Reuters*.
+* *Agence France Presse* (16 November 2023)  [Quakes And Climate: How Dutch Farmers Lost Faith In Politics](https://news.yahoo.com/quakes-climate-dutch-farmers-lost-084747368.html).
+* *Agence France Presse* (16 November 2023) [Dutch to vote in seismic election thriller](https://www.france24.com/en/live-news/20231116-dutch-to-vote-in-seismic-election-thriller).
+* *NOS* (15 November 2023) [Peilingwijzer: geen echte grote partijen, wie heeft beste eindsprint?](https://nos.nl/collectie/13960/artikel/2497963-peilingwijzer-geen-echte-grote-partijen-wie-heeft-beste-eindsprint).
+* Hankel, Arne en Agnes de Goede (11 November 2023) [In deze tamme verkiezingscampagne is de kiezer de verliezer](https://www.rtlnieuws.nl/nieuws/politiek/artikel/5418138/verkiezingen-tweede-kamer-campagne-stemmen-kiezer), *RTL Nieuws*.
+* *ANP* [Expert Universiteit Leiden: partijen moeten zeggen met wie ze wél willen samenwerken](https://www.leidschdagblad.nl/cnt/dmf20231111_43077020).
+* *NOS* (9 November 2023) [VVD en NSC samen aan kop in Peilingwijzer, GroenLinks-PvdA blijft achter](https://nos.nl/l/2497165).
+* Laan, Ton van der (28 October 2023) [Speelt een peiling een grote rol in de verkiezingscampagne? 'Met peilingen moet je voorzichtig zijn'](https://lc.nl/friesland/De-kiezer-laat-zich-lastig-peilen-28712373.html), *Leeuwarder Courant*.
+* Hijink, Marc (27 October 2023) [Wie zitten er achter de peilingen? 9.500 meningen, een hap soep en een bon van Bol.com](https://www.nrc.nl/nieuws/2023/10/27/wie-zitten-er-achter-de-peilingen-9500-meningen-een-hap-soep-en-een-bon-van-bolcom-a4178782), *NRC*.
 * *NOS* (28 September 2023) [Peilingwijzer: VVD, NSC en GroenLinks-PvdA ontlopen elkaar weinig](https://nos.nl/artikel/2492144-peilingwijzer-vvd-nsc-en-groenlinks-pvda-ontlopen-elkaar-weinig).
 * Wisse, Joeri (28 September 2023) [Heeft Omtzigt nu wel of geen Zeeuwen op lijst NSC gezet? ‘Opvallend dat juist hij met deze lijst komt’](https://www.pzc.nl/zeeuws-nieuws/heeft-omtzigt-nu-wel-of-geen-zeeuwen-op-lijst-nsc-gezet-opvallend-dat-juist-hij-met-deze-lijst-komt~a431c32a/?referrer=https%3A%2F%2Fduckduckgo.com%2F), *PZC*.
 * Boztas, Senay (20 September 2023) [What’s all the fuss about the far right in the Netherlands?](https://www.dutchnews.nl/2023/09/whats-all-the-fuss-about-the-far-right-in-the-netherlands/), *DutchNews*.
