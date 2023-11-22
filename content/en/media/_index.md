@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 ## 2023
 
+* *ZDF* (22 November 2023) [Wahlen in den Niederlanden](https://www.zdf.de/nachrichten-sendungen/heute-journal/heute-journal-vom-22-november-2023-100.html).
 * De Jong, Annemarie & Ivo Laan (18 November 2023) [Loyale senior is tegenwoordig kiezer op drift](https://www.leidschdagblad.nl/cnt/dmf20231117_54321883), *Leidsch Dagblad* & *Noordhollands Dagblad*.
 * Sterling, Toby & Stephanie van den Berg (16 November 2023) [Without Rutte, Dutch election centres on cost-of-living, climate and immigration](https://www.reuters.com/world/europe/without-rutte-dutch-election-centres-cost-of-living-climate-immigration-2023-11-16/), *Reuters*.
 * *Agence France Presse* (16 November 2023)  [Quakes And Climate: How Dutch Farmers Lost Faith In Politics](https://news.yahoo.com/quakes-climate-dutch-farmers-lost-084747368.html).
