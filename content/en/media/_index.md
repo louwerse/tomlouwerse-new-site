@@ -16,6 +16,13 @@ Media appearances and mentions:
 ## 2023
 
 * *ZDF* (22 November 2023) [Wahlen in den Niederlanden](https://www.zdf.de/nachrichten-sendungen/heute-journal/heute-journal-vom-22-november-2023-100.html).
+* Moses, Claire (22 November 2023) [Novelty in Dutch Race: A Centrist Protest Party](https://www.nytimes.com/2023/11/21/world/europe/netherlands-dutch-election-omtzigt.html), *The New York Times*.
+* Boztas, Senay (22 November 2023) [Netherlands set for first new prime minister in 13 years as voters head to polls](https://www.theguardian.com/world/2023/nov/22/dutch-voters-set-to-elect-first-new-prime-minister-in-13-years), *The Guardian*.
+* *NOS* (21 November 2023) [Peilingwijzer: VVD, PVV en GL-PvdA in de race om de grootste te worden](https://nos.nl/collectie/13958/artikel/2498709-peilingwijzer-vvd-pvv-en-gl-pvda-in-de-race-om-de-grootste-te-worden).
+* Dujic, Filip (21 November 2023) ['Bandwagon', dynamiek en paardenrace: de invloed van peilingen op verkiezingen](https://nos.nl/collectie/13958/artikel/2498691-bandwagon-dynamiek-en-paardenrace-de-invloed-van-peilingen-op-verkiezingen), *NOS*.
+* De Jong, Annemarie (21 November 2023) [Stoppen met peilen voor verkiezingen?; zeven vragen over De invloed van zetelpeilingen](https://www.leidschdagblad.nl/cnt/dmf20231121_73689697?utm_source=duckduckgo.com&utm_medium=referral&utm_content=/), o.a. *Leidsch Dagblad*.
+* *ORF* (21 November 2023) [Wahlen in den Niederlanden](https://tvthek.orf.at/profile/ZIB-1/1203/ZIB-1/14202211/Wahlen-in-den-Niederlanden/15512704).
+* *NOS* (20 November 2023) [Peilingwijzer: PVV sluit aan bij kopgroep, NSC zakt weg, maar veel nog in beweging](https://nos.nl/l/2498602).
 * De Jong, Annemarie & Ivo Laan (18 November 2023) [Loyale senior is tegenwoordig kiezer op drift](https://www.leidschdagblad.nl/cnt/dmf20231117_54321883), *Leidsch Dagblad* & *Noordhollands Dagblad*.
 * Sterling, Toby & Stephanie van den Berg (16 November 2023) [Without Rutte, Dutch election centres on cost-of-living, climate and immigration](https://www.reuters.com/world/europe/without-rutte-dutch-election-centres-cost-of-living-climate-immigration-2023-11-16/), *Reuters*.
 * *Agence France Presse* (16 November 2023)  [Quakes And Climate: How Dutch Farmers Lost Faith In Politics](https://news.yahoo.com/quakes-climate-dutch-farmers-lost-084747368.html).
