@@ -15,6 +15,10 @@ Media appearances and mentions:
 
 ## 2023
 
+* Van Loon, Wouter, Rik Rutten, Marko de Haan & Roos Liefting (30 November 2023) [Is de PVV economisch links? Dat valt wel mee, laat het stemgedrag zien](https://www.nrc.nl/nieuws/2023/11/30/is-de-pvv-economisch-links-zo-eenvoudig-is-het-niet-laat-het-stemgedrag-zien-a4182907), *NRC*.
+* Bouma, Kaya (24 November 2023) [PVV haalt zo’n negen zetels meer dan in de slotpeilingen – vanwaar dat verschil?](https://www.volkskrant.nl/politiek/pvv-haalt-zo-n-negen-zetels-meer-dan-in-de-slotpeilingen-vanwaar-dat-verschil~b21cc518/), *de Volkskrant*.
+* *Universiteit Leiden* (23 November 2023) [Leiden researchers explain shock PVV victory](https://www.universiteitleiden.nl/en/news/2023/11/leiden-researchers-explain-shock-pvv-victory).
+* Hermenet, Coen (22 November 2023) [Na slotpeiling kan nog verrassing volgen](https://www.rd.nl/artikel/1042621-de-stemming-na-slotpeiling-kan-nog-verrassing-volgen), *Reformatorisch Dagblad*.
 * *ZDF* (22 November 2023) [Wahlen in den Niederlanden](https://www.zdf.de/nachrichten-sendungen/heute-journal/heute-journal-vom-22-november-2023-100.html).
 * Moses, Claire (22 November 2023) [Novelty in Dutch Race: A Centrist Protest Party](https://www.nytimes.com/2023/11/21/world/europe/netherlands-dutch-election-omtzigt.html), *The New York Times*.
 * Boztas, Senay (22 November 2023) [Netherlands set for first new prime minister in 13 years as voters head to polls](https://www.theguardian.com/world/2023/nov/22/dutch-voters-set-to-elect-first-new-prime-minister-in-13-years), *The Guardian*.

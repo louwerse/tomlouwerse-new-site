@@ -77,6 +77,6 @@ Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden
 
 Mijn onderzoek en onderwijs gaat over verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën. Mijn belangrijkste onderzoeksproject, *Who opposes?*, richt zich op samenwerking tussen regering en oppositie in het parlement en wordt gefinancieerd door een Vidi-subsidie van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO).
 
-Mijn outreachactiviteiten omvatten de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) en de [Irish Polling Indicator](https://www.pollingindicator.com). Ik ben lid van [Young Academy Leiden](https://www.universiteitleiden.nl/yal).
+Mijn outreachactiviteiten omvatten de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl) en de [Irish Polling Indicator](https://www.pollingindicator.com). 
 
 **Kijk op mijn [Engelstalige site](../) voor een volledig overzicht van mijn onderzoek, onderwijs & outreachactiviteiten**

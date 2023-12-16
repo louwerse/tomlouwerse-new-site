@@ -33,15 +33,17 @@ In 2019 I was promoted to Associate Professor in the Department of Political Sci
 
 In addition to my regular academic work (research and teaching), I am Director of Research at the Institute of Political Science. As a member of the Institute Board, I am responsible for policy regarding all matters relating to research conducted at our Institute.
 
-#### Professional service and outreach
+### Professional service and outreach
 
-I fulfil various professional service roles. I am a member of the [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden), an interdisciplinary group of young academics at Leiden University. I acted as its chair from January 2019 to August 2020. I am a board member of Leiden University's [Centre for Dutch Politics and Governance](https://www.universiteitleiden.nl/cnpb).
-
-Between 2015 and 2021, I was a member and later chair of the steering committee of the [Standing Group on Parliaments](http://standinggroups.ecpr.eu/parliaments/), one of the largest and most active specialist groups within the European Consortium for Political Research (ECPR). In 2017 and 2018, I co-organized the Dutch Flemish Political Science conference [*Politicologenetmaal*](http://politicologenetmaal.eu/) with Hans Vollaard, Corinna Jentzsch and Nicolas Blarel in Leiden. In 2019, I co-organized the [Standing Group on Parliaments Conference](http://standinggroups.ecpr.eu/parliaments/?page_id=499) in Leiden with Rudy Andeweg, Tim Mickler and Cynthia van Vonno.
+I fulfil various professional service roles. I am a board member of Leiden University's [Centre for Dutch Politics and Governance](https://www.universiteitleiden.nl/cnpb) and a steering committee member of the [Global Transformations and Governance Challenges](https://www.universiteitleiden.nl/en/gtgc) programme at Leiden University.
 
 My outreach activities include polling aggregation in the [Netherlands](http://peilingwijzer.tomlouwerse.nl/), published by the public broadcaster NOS, and [Ireland](http://www.pollingindicator.com/) (together with Stefan Müller). I am a co-founder and co-editor of the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl/).
 
-#### Honours and grants
+Between 2015 and 2021, I was a member and later chair of the steering committee of the [Standing Group on Parliaments](http://standinggroups.ecpr.eu/parliaments/), one of the largest and most active specialist groups within the European Consortium for Political Research (ECPR). In 2017 and 2018, I co-organized the Dutch Flemish Political Science conference [*Politicologenetmaal*](http://politicologenetmaal.eu/) with Hans Vollaard, Corinna Jentzsch and Nicolas Blarel in Leiden. In 2019, I co-organized the [Standing Group on Parliaments Conference](http://standinggroups.ecpr.eu/parliaments/?page_id=499) in Leiden with Rudy Andeweg, Tim Mickler and Cynthia van Vonno.
+
+From 2019 to 2023, I was a member of the [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden), an interdisciplinary group of young academics at Leiden University. I acted as its inaugural chair from January 2019 to August 2020.
+
+### Honours and grants
 
 In September 2015 I received the [Emerging Scholars Award](http://www.apsanet.org/section-5-Emerging-Scholars-Award) from the Organized Section on Political Organizations and Parties of the American Political Science Association. I was selected as a member of [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden) in 2019.
 
