@@ -41,7 +41,7 @@ Media appearances and mentions:
 * *Agence France Presse* (16 November 2023) [Dutch to vote in seismic election thriller](https://www.france24.com/en/live-news/20231116-dutch-to-vote-in-seismic-election-thriller).
 * *NOS* (15 November 2023) [Peilingwijzer: geen echte grote partijen, wie heeft beste eindsprint?](https://nos.nl/collectie/13960/artikel/2497963-peilingwijzer-geen-echte-grote-partijen-wie-heeft-beste-eindsprint).
 * Hankel, Arne en Agnes de Goede (11 November 2023) [In deze tamme verkiezingscampagne is de kiezer de verliezer](https://www.rtlnieuws.nl/nieuws/politiek/artikel/5418138/verkiezingen-tweede-kamer-campagne-stemmen-kiezer), *RTL Nieuws*.
-* *ANP* [Expert Universiteit Leiden: partijen moeten zeggen met wie ze wél willen samenwerken](https://www.leidschdagblad.nl/cnt/dmf20231111_43077020).
+* *ANP* (11 November 2023) [Expert Universiteit Leiden: partijen moeten zeggen met wie ze wél willen samenwerken](https://www.leidschdagblad.nl/cnt/dmf20231111_43077020).
 * *NOS* (9 November 2023) [VVD en NSC samen aan kop in Peilingwijzer, GroenLinks-PvdA blijft achter](https://nos.nl/l/2497165).
 * Laan, Ton van der (28 October 2023) [Speelt een peiling een grote rol in de verkiezingscampagne? 'Met peilingen moet je voorzichtig zijn'](https://lc.nl/friesland/De-kiezer-laat-zich-lastig-peilen-28712373.html), *Leeuwarder Courant*.
 * Hijink, Marc (27 October 2023) [Wie zitten er achter de peilingen? 9.500 meningen, een hap soep en een bon van Bol.com](https://www.nrc.nl/nieuws/2023/10/27/wie-zitten-er-achter-de-peilingen-9500-meningen-een-hap-soep-en-een-bon-van-bolcom-a4178782), *NRC*.
