@@ -13,6 +13,14 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
+## 2024
+
+* Frederik, Jesse (29 February 2024) [Peilingen na verkiezingen: zonde van de zendtijd ](https://decorrespondent.nl/15152/peilingen-na-verkiezingen-zonde-van-de-zendtijd/f19d14fc-03cc-0378-1310-a492edd78c3e), *De Correspondent*.
+* Hakhverdian, Armen (26 February 2024) [Aflevering 126 – De formatiesaga gaat door, met Tom Louwerse en Rudy Andeweg](https://stukroodvlees.nl/aflevering-126-de-formatiesaga-gaat-door-met-tom-louwerse-en-rudy-andeweg/), *SRV Podcast*.
+* *NOS* (13 February 2024) [Onderzoek: kiezer teleurgesteld in formatie, NSC dreigt prijs te betalen](https://nos.nl/collectie/13962/artikel/2508737-onderzoek-kiezer-teleurgesteld-in-formatie-nsc-dreigt-prijs-te-betalen).
+* *Public Affairs Academie* (5 February 2024) [Podcast #33 – Reflecteren en vooruitkijken op basis van de verkiezingsuitslag met Tom Louwerse](https://www.pa-academie.nl/podcast-33-reflecteren-en-vooruitkijken-op-basis-van-de-verkiezingsuitslag-met-tom-louwerse/).
+* von Piekartz, Hessel (9 January 2024) [Peilingbureaus fuseren, de peilingen ook?](https://www.volkskrant.nl/politiek/ipsos-en-i-o-research-gaan-samen-blijft-er-straks-nog-maar-een-politieke-peiling-over~b05d9a1e/), *De Volkskrant*.
+
 ## 2023
 
 * Van Loon, Wouter, Rik Rutten, Marko de Haan & Roos Liefting (30 November 2023) [Is de PVV economisch links? Dat valt wel mee, laat het stemgedrag zien](https://www.nrc.nl/nieuws/2023/11/30/is-de-pvv-economisch-links-zo-eenvoudig-is-het-niet-laat-het-stemgedrag-zien-a4182907), *NRC*.

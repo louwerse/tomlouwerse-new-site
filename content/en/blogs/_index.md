@@ -11,6 +11,10 @@ highlight = false
 
 +++
 
+### 2023
+
+Louwerse, Tom and Joop van Holsteyn (2023) [Vraag niet aan de kiezer wat hij zou stemmen, maar wat hij wíl](https://www.nrc.nl/nieuws/2023/12/22/vraag-niet-aan-de-kiezer-wat-hij-zou-stemmen-maar-wat-hij-wil-a4185117?t=1709584571), *NRC*, 22 December.
+
 ### 2021
 Louwerse, Tom (2021) [Slotpeilingen: niet perfect, toch nuttig](https://www.montesquieu-instituut.nl/9353000/1/j9vvj72dlowskug/vli69mwql0s5?pk_campaign=hofv-2104&pk_kwd=vli69mwql0s5), *De Hofvijver*, vol. 11, no. 119, 26 April.
 
