@@ -11,6 +11,13 @@ highlight = false
 
 +++
 
+### 2023
+
+Louwerse, T. (2023) Government-Opposition Dynamics in Parliamentary Interruptions: The Case of the Netherlands. Paper presented at he ECPR Standing Group on Parliaments, Vienna, 6-8 July.
+
+Louwerse, T. & Van well. R. (2023) Government-opposition distinctiveness in legislatures: A longitudinal analysis. Paper presented at the Opposition Studies Conference, 18-19 July.
+
+
 ### 2022
 
 Louwerse, T. & Van Well, R. (2022) Government-opposition distinctiveness in legislatures: A longitudinal analysis. Paper presented at the EPSA General Conference, 23-25 June, Prague.
