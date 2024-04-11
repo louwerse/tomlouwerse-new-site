@@ -1,27 +1,27 @@
 +++
-title = "Parlementaire data in politicologisch onderzoek"
+title = "Conflict en samenwerking in de Nederlandse politiek"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2024-04-16T13:00:00+02:00
-date_end = 2024-04-16T15:00:00+02:00
+date = 2024-04-10T20:45:00+02:00
+date_end = 2024-04-10T21:45:00+02:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2024-04-16T13:00:00+02:00
+publishDate = 2024-01-01T11:00:00+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Cynthia van Vonno"]
+authors = ["admin"]
 
 # Location of event.
-location = "Tweede Kamer, Den Haag"
+location = "Lipsius 0.05, Universiteit Leiden, Leiden"
 
 # Name of event and optional event URL.
-event = "Datamaand Tweede Kamer"
+event = "Lezing ASV Prometheus"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "During the interal 'Data month' of the House of Representative of the Netherlands, we presented our work on the Dutch Parliamentary Behaviour Dataset, in which we use transcripts from parliament and open data from the Tweede Kamer in political science research."
+abstract = "What is the role of the opposition in a democracy? Is the opposition distinctive enough in the Netherlands? How can we explain this and how do citizens look at it. In this talk for ASV Prometheus I talked about these issues on conflict and cooperation in Dutch parliamentary politics, drawing from findings in our research project 'Who Opposes'."
 
 # Summary. An optional shortened abstract.
 # summary = ""
@@ -50,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["parliaments", "who-opposes"]
+projects = ["who-opposes"]
 
 # Links (optional).
 url_pdf = ""
