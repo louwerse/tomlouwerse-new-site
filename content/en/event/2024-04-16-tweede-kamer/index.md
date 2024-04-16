@@ -21,7 +21,7 @@ event = "Interne Datamaand Tweede Kamer"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "During the internal 'Data month' of the House of Representatives, we presented how political scientists use open data for their research."
+abstract = "During the internal 'Data month' of the House of Representatives, we presented how political scientists use parliamentary open data for their research."
 
 # Summary. An optional shortened abstract.
 # summary = ""
