@@ -10,7 +10,7 @@ selected=true
 doi = "10.1057/s41269-023-00310-w"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://link.springer.com/content/pdf/10.1057/s41269-023-00310-w.pdf?pdf=button"
+url_pdf = ""
 projects= ""
 url_slides = ""
 url_video = ""
