@@ -76,6 +76,6 @@ user_groups:
 
 I am an Associate Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. I am currently Director of Research at the [Institute of Political Science](https://www.universiteitleiden.nl/en/social-behavioural-sciences/political-science).
 
-My [research](#projects) and [teaching](#teaching) concern elections, political representation and parliamentary politics in the Netherlands and other established democracies. My main research project, [Who opposes?](project/who-opposes), focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO). I am co-author of *Governance and Politics of the Netherlands* and co-editor of the *Oxford Handbook of Dutch Politics*.  
+My [research](#projects) and [teaching](#teaching) concern elections, political representation and parliamentary politics in the Netherlands and other established democracies. My main research project, [Who opposes?](project/who-opposes), focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO). I am co-author of *Governance and Politics of the Netherlands* and co-editor of the soon to be published *Oxford Handbook of Dutch Politics* .  
 
 I created and maintain the polling aggregation project [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl), [blog](#blogs) about my work and regularly appear in [news media](#media).
