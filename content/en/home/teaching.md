@@ -51,9 +51,9 @@ weight = 60
 
 +++
 
-I am teaching the following courses in the academic year 2023-2004:
+I am teaching the following courses in the academic year 2024-2005:
 
-* [Statistics I](https://studiegids.universiteitleiden.nl/en/courses/117785/statistiek-i-beschrijven-en-presenteren) (BSc Political Science Leiden, 1st year).
+* [Nationale Politiek I: Nederlands Politiek Bestel](https://studiegids.universiteitleiden.nl/courses/124807/nationale-politiek-i-nederlands-politiek-bestel) (BSc Political Science Leiden, 1st year).
 
 For students, course information can be found on [Brightspace](https://brightspace.universiteitleiden.nl).
 
