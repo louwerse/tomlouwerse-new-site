@@ -7,7 +7,7 @@ authors:
   - Paul 't Hart
   - Carolien van Ham
   - (Eds.)
-date: '2024-09-25'
+date: '2024-10-01'
 math: false
 publication: 'Oxford University Press'
 title: The Oxford Handbook of Dutch Politics 
