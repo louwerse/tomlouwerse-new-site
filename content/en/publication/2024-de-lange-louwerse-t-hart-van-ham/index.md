@@ -17,7 +17,7 @@ publication_types:
   - '5'
 links:
   - name: Google Books
-    url: ''
+    url: 'https://books.google.nl/books?id=E28lEQAAQBAJ&lpg=PA1&ots=bGaWv_yaiJ&lr&hl=nl&pg=PP1#v=onepage&q&f=false'
 image:
   placement: 1
   width: 50
