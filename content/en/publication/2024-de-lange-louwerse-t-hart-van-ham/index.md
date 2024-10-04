@@ -11,6 +11,7 @@ date: '2024-10-01'
 math: false
 publication: 'Oxford University Press'
 title: The Oxford Handbook of Dutch Politics 
+doi: 10.1093/oxfordhb/9780198875499.001.0001
 selected: true
 projects: []
 publication_types:
