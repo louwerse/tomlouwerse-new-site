@@ -15,6 +15,10 @@ Media appearances and mentions:
 
 ## 2024
 
+* Spraakmakers (1 November 2024) [Oxford Handbook of Dutch Politics](https://www.nporadio1.nl/fragmenten/spraakmakers/9d62248c-e133-412a-9551-d9dc2692a871/2024-11-01-oxford-handbooks-of-dutch-politics), *NPO Radio 1*.
+* *NOS* (27 September 2024) [Peilingwijzer: PVV met afstand de grootste, NSC valt ver terug](https://nos.nl/artikel/2538713-peilingwijzer-pvv-met-afstand-de-grootste-nsc-valt-ver-terug).
+* Belgers, Joris (25 October 2024) [De schrik en de onzekerheid slaan toe bij de Democraten](https://www.trouw.nl/buitenland/het-wordt-nu-wel-heel-spannend-voor-de-democraten~b9807f43/), *Trouw*.
+* Bounds, Andy (13 March 2024) Far-right leader Geert Wilders says he will not be next Dutch prime minister, *Financial Times*.
 * Frederik, Jesse (29 February 2024) [Peilingen na verkiezingen: zonde van de zendtijd ](https://decorrespondent.nl/15152/peilingen-na-verkiezingen-zonde-van-de-zendtijd/f19d14fc-03cc-0378-1310-a492edd78c3e), *De Correspondent*.
 * Hakhverdian, Armen (26 February 2024) [Aflevering 126 – De formatiesaga gaat door, met Tom Louwerse en Rudy Andeweg](https://stukroodvlees.nl/aflevering-126-de-formatiesaga-gaat-door-met-tom-louwerse-en-rudy-andeweg/), *SRV Podcast*.
 * *NOS* (13 February 2024) [Onderzoek: kiezer teleurgesteld in formatie, NSC dreigt prijs te betalen](https://nos.nl/collectie/13962/artikel/2508737-onderzoek-kiezer-teleurgesteld-in-formatie-nsc-dreigt-prijs-te-betalen).
