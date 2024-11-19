@@ -1,27 +1,27 @@
 +++
-title = "Parlementaire data in politicologisch onderzoek"
+title = "Peilingen en de Peilingwijzer"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2024-04-16T13:00:00+02:00
-date_end = 2024-04-16T15:00:00+02:00
+date = 2023-11-03T12:00:00+01:00
+date_end = 2023-11-03T13:00:00+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2024-04-16T13:00:00+02:00
+publishDate = 2023-01-01T11:00:00+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Cynthia van Vonno"]
+authors = ["admin"]
 
 # Location of event.
-location = "Tweede Kamer, Den Haag"
+location = "Universiteit Leiden, Schouwburgstraat, Den Haag"
 
 # Name of event and optional event URL.
-event = "Datamaand Tweede Kamer"
+event = "Dual PhD Centre Promovendilunch"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "During the interal 'Data month' of the House of Representative of the Netherlands, we presented our work on the Dutch Parliamentary Behaviour Dataset, in which we use transcripts from parliament and open data from the Tweede Kamer in political science research."
+abstract = "In this presentation I linked my work on the Dutch polling aggregator Peilingwijzer to political developments in the Netherlands."
 
 # Summary. An optional shortened abstract.
 # summary = ""
@@ -50,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["parliaments", "who-opposes"]
+projects = ["polling-aggregation"]
 
 # Links (optional).
 url_pdf = ""
