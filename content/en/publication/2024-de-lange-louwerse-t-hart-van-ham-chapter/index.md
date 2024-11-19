@@ -8,7 +8,7 @@ authors:
   - Carolien van Ham
 date: '2024-10-31'
 math: false
-publication: 'In: De Lange, S. Louwerse, T.,  `t Hart, P. & Van Ham, C. (Eds.) *The Oxford Handbook of Dutch Politics*. Oxford University Press, pp. 1-24'
+publication: 'In: De Lange, S. Louwerse, T.,  ''t Hart, P. & Van Ham, C. (Eds.) *The Oxford Handbook of Dutch Politics*. Oxford University Press, pp. 1-24'
 title: Stability and Change in Dutch Politics
 doi: 10.1093/oxfordhb/9780198875499.001.0001
 selected: true
