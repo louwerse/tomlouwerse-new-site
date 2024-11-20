@@ -4,18 +4,29 @@ date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
 
-# Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "headers/media.jpg"
-#caption = "SRF Interview April 2016"
 
 +++
 
+### 2024
+
+Louwerse, T. (2024) The Netherlands – The Increasing Use of Portfolio Reform in Complex Coalition Formation. Paper presented at Workshop The Politics of Portfolio Design in European Democracies, Vienna, 19-20 June.
+
+Louwerse, T. (2024) Government-Opposition Dynamics in Parliamentary Interactions: The Case of the Netherlands. Paper presented at the Annual Conference of the European Political Science Association, Cologne, 4-6 July.
+
+Louwerse, T. & Zorina, E. (2024) What kind of opposition do citizens want? Paper presented at the ECPR General Conference, Dublin, 12-15 August.
+
+Sieberer, U., Meyer, T., Osamura, K. Schmuck, D., et al. (2024) Explaining changes in the distribution of policy competencies in multiparty governments. Paper presented at the Annual Conference of the European Political Science Association, Cologne, 4-6 July.
+
+Tuttnauer, O., Warode, L. & Louwerse, T. (2024) The dynamics of parliamentary conflict in response to electoral information. Paper presented at the Annual Conference of the European Political Science Association, Cologne, 4-6 July.
+
+
+
+
 ### 2023
 
-Louwerse, T. (2023) Government-Opposition Dynamics in Parliamentary Interruptions: The Case of the Netherlands. Paper presented at he ECPR Standing Group on Parliaments, Vienna, 6-8 July.
+Louwerse, T. (2023) Government-Opposition Dynamics in Parliamentary Interruptions: The Case of the Netherlands. Paper presented at the ECPR Standing Group on Parliaments, Vienna, 6-8 July.
 
-Louwerse, T. & Van well. R. (2023) Government-opposition distinctiveness in legislatures: A longitudinal analysis. Paper presented at the Opposition Studies Conference, 18-19 July.
+Louwerse, T. & Van Well, R. (2023) Government-opposition distinctiveness in legislatures: A longitudinal analysis. Paper presented at the Opposition Studies Conference, 18-19 July.
 
 
 ### 2022
@@ -30,11 +41,9 @@ Nagtzaam, M. & Louwerse, T. (2021) Geographical representation under a single na
 
 Otjes, S., & Louwerse, T. (2021) The Reinvention of Consensus Politics: Majority and minority government in the Netherlands 2007-2021. Paper presented at the Online Conference of the Council for European Studies, 21-24 June.
 
-Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication:
-A Comparative Field Experiment. Paper presented at the Annual Meeting of the American Political Science Association (Virtual session), 30 September.
+Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication: A Comparative Field Experiment. Paper presented at the Annual Meeting of the American Political Science Association (Virtual session), 30 September.
 
-Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication:
-A Comparative Field Experiment. Paper presented at the Leiden Political Science Workshop, 28 October.
+Schakel, W., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2021) Unequal Responsiveness in MP-Citizen Communication: A Comparative Field Experiment. Paper presented at the Leiden Political Science Workshop, 28 October.
 
 ### 2020
 
