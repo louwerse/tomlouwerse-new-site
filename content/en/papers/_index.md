@@ -15,7 +15,7 @@ Louwerse, T. (2024) Government-Opposition Dynamics in Parliamentary Interactions
 
 Louwerse, T. & Zorina, E. (2024) What kind of opposition do citizens want? Paper presented at the ECPR General Conference, Dublin, 12-15 August.
 
-Sieberer, U., Meyer, T., Osamura, K. Schmuck, D., et al. (2024) Explaining changes in the distribution of policy competencies in multiparty governments. Paper presented at the Annual Conference of the European Political Science Association, Cologne, 4-6 July.
+Sieberer, U., Meyer, T., Osamura, K. Schmuck, D., et al. (2024) Explaining changes in the distribution of policy competencies in multiparty governments. Paper presented at the Annual Conference of the European Political Science Association, Cologne, 4-6 July.[^1]
 
 Tuttnauer, O., Warode, L. & Louwerse, T. (2024) The dynamics of parliamentary conflict in response to electoral information. Paper presented at the Annual Conference of the European Political Science Association, Cologne, 4-6 July.
 
