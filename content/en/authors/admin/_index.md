@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:t.p.louwerse@fsw.leidenuniv.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/tomlouwerse.nl
 - icon: mastodon
   icon_pack: fab
   link: https://akademienl.social/@tomlouwerse
