@@ -21,9 +21,7 @@ event = "LUCIR US Elections Roundtable 2: Comparative perspectives on the result
 event_url = "https://www.universiteitleiden.nl/en/events/2024/11/lucir-us-elections-roundtable-2"
 
 # Abstract. What's your talk about?
-abstract = "How do we explain the elections results? What was surprising about the elections? What are their implications for the US and its relations with Europe? How did political violence affect the results (if at all)? What role did social media play during the campaigns?
-
-In an interactive session, I discussed the opinion polls and voting behaviour in the 2024 US elections."
+abstract = "How do we explain the elections results? What was surprising about the elections? What are their implications for the US and its relations with Europe? How did political violence affect the results (if at all)? What role did social media play during the campaigns? In an interactive session, I discussed the opinion polls and voting behaviour in the 2024 US elections."
 
 # Summary. An optional shortened abstract.
 # summary = ""
