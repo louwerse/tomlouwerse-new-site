@@ -55,4 +55,4 @@ From time to time, I publish blogs at Stuk Rood Vlees, a Dutch-language politica
 
 A list of other recent popular publications and blogs is [available here](/blogs).
 
-I also microblog at <a rel="me" href="https://akademienl.social/@tomlouwerse">Mastodon</a>.
+I also microblog at <a rel="me" href="https://bsky.app/profile/tomlouwerse.nl">Bluesky</a> and <a rel="me" href="https://akademienl.social/@tomlouwerse">Mastodon</a>.
