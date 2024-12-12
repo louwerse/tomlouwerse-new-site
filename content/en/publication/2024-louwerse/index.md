@@ -12,11 +12,6 @@ selected: true
 projects: []
 publication_types:
   - '6'
-links:
-  - name: Google Books
-    url: 'https://books.google.nl/books?id=E28lEQAAQBAJ&lpg=PA1&ots=bGaWv_yaiJ&lr&hl=nl&pg=PP1#v=onepage&q&f=false'
-  - name: Publisher's website
-    url: 'https://global.oup.com/academic/product/the-oxford-handbook-of-dutch-politics-9780198875499?q=the%20oxford%20handbook%20of%20dutch%20politics&cc=nl&lang=en'
 image:
   placement: 1
   width: 50
