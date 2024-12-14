@@ -35,9 +35,9 @@ In addition to my regular academic work (research and teaching), I am Director o
 
 ### Professional service and outreach
 
-I fulfil various professional service roles. I am a board member of Leiden University's [Centre for Dutch Politics and Governance](https://www.universiteitleiden.nl/cnpb) and a steering committee member of the [Global Transformations and Governance Challenges](https://www.universiteitleiden.nl/en/gtgc) programme at Leiden University.
+Next to my position on the Board of the Institute of Political Science, I am a board member of Leiden University's [Centre for Dutch Politics and Governance](https://www.universiteitleiden.nl/cnpb).
 
-My outreach activities include polling aggregation in the [Netherlands](http://peilingwijzer.tomlouwerse.nl/), published by the public broadcaster NOS, and [Ireland](http://www.pollingindicator.com/) (together with Stefan Müller). I am a co-founder and co-editor of the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl/).
+My outreach activities include the polling aggregation project ['Peilingwijzer'](http://peilingwijzer.tomlouwerse.nl/) in the Netherlands, published by the public broadcaster NOS. I founded a similar ['Irish Polling Indicator'](http://www.pollingindicator.com/) project in Ireland, which now continues under the excellent stewardship of Stefan Müller. I am a co-founder and co-editor of the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl/).
 
 Between 2015 and 2021, I was a member and later chair of the steering committee of the [Standing Group on Parliaments](http://standinggroups.ecpr.eu/parliaments/), one of the largest and most active specialist groups within the European Consortium for Political Research (ECPR). In 2017 and 2018, I co-organized the Dutch Flemish Political Science conference [*Politicologenetmaal*](http://politicologenetmaal.eu/) with Hans Vollaard, Corinna Jentzsch and Nicolas Blarel in Leiden. In 2019, I co-organized the [Standing Group on Parliaments Conference](http://standinggroups.ecpr.eu/parliaments/?page_id=499) in Leiden with Rudy Andeweg, Tim Mickler and Cynthia van Vonno.
 
