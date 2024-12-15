@@ -4,14 +4,15 @@ date = 2017-07-10T00:00:00
 show_date = false
 
 # Project title.
-title = "Parliaments: rules and behaviour"
+title = "Parliaments"
+subtitle = "Rules and behaviour"
 
 # Project summary to display on homepage.
 summary = "How do MPs and parties behave in parliament?"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["parliaments"]
+tags = ["parliaments", "active"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

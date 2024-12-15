@@ -10,7 +10,8 @@ publication: 'In: De Lange, S. Louwerse, T.,  ''t Hart, P. & Van Ham, C. (Eds.) 
 title: Parliamentary politics in the Netherlands
 doi: 10.1093/oxfordhb/9780198875499.001.0001
 selected: true
-projects: []
+featured: true
+projects: ['parliaments', 'dutch-politics']
 publication_types:
   - '6'
 links:

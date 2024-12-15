@@ -8,7 +8,7 @@ math = false
 publication = "In: Elisabetta De Giorgi and Gabriella Ilonszki (Eds.) Opposition Parties in European Legislatures: Conflict or Consensus?, Abingdon and New York: Routledge."
 title = "The Netherlands: The reinvention of consensus democracy"
 selected=true
-projects = ["parliaments"]
+projects = ["parliaments", "dutch-politics"]
 publication_types = ["6"]
 url_pdf = "https://openaccess.leidenuniv.nl/handle/1887/73525"
 [[links]]

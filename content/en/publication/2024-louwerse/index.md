@@ -9,7 +9,8 @@ publication: 'In: Dumont, P., Grofman, B., Bergman, T. & Louwerse, T. (Eds.) *Ne
 title: 'Investiture and Removal of Governments: ‘Positive’ and ‘Negative’ Parliamentarism'
 doi: 10.1007/978-3-031-69347-2_2
 selected: true
-projects: []
+featured: true
+projects: ['parliaments']
 publication_types:
   - '6'
 image:

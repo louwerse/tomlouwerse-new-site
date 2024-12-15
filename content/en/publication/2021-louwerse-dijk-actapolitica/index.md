@@ -11,7 +11,7 @@ doi = "10.1057/s41269-021-00208-5"
 url_code = "https://doi.org/10.7910/DVN/1QX5F2"
 url_dataset = "https://doi.org/10.7910/DVN/1QX5F2"
 url_pdf = ""
-projects=["polling-aggregation"]
+projects=["polling-aggregation", "dutch-politics"]
 url_slides = ""
 url_video = ""
 links = [{name="Online Appendices", url="https://static-content.springer.com/esm/art%3A10.1057%2Fs41269-021-00208-5/MediaObjects/41269_2021_208_MOESM1_ESM.docx"}, {name="Read online (free)", url="https://rdcu.be/cnhgN"}]

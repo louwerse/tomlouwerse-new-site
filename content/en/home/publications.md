@@ -33,6 +33,7 @@ weight = 25
     category = ""
     publication_type = ""
     exclude_featured = false
+    featured_only = true
 
 [design]
   # Toggle between the various page layout types.

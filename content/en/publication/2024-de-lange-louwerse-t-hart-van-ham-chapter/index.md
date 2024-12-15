@@ -12,7 +12,8 @@ publication: 'In: De Lange, S. Louwerse, T.,  ''t Hart, P. & Van Ham, C. (Eds.) 
 title: Stability and Change in Dutch Politics
 doi: 10.1093/oxfordhb/9780198875499.001.0001
 selected: true
-projects: []
+featured: true
+projects: ['dutch-politics']
 publication_types:
   - '6'
 links:

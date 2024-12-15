@@ -13,7 +13,8 @@ publication: 'Oxford University Press'
 title: The Oxford Handbook of Dutch Politics 
 doi: 10.1093/oxfordhb/9780198875499.001.0001
 selected: true
-projects: []
+featured: true
+projects: ['dutch-politics']
 publication_types:
   - '5'
 links:
@@ -28,3 +29,5 @@ image:
   focal_point: "Right"
   preview_only: false
 ---
+
+Use promotion code AUFLY30 to save 30% on purchasing via [Oxford University Press](https://global.oup.com/academic/product/9780198875499)

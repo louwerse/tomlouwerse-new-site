@@ -11,7 +11,7 @@ publication: 'Technical report. '
 title: Transparency in Digital Political Advertisements during the 2019 European Parliament Elections 
 subtitle: Country Report on the Netherlands
 selected: false
-projects: []
+projects: ['dutch-politics']
 publication_types:
   - '4'
 image:

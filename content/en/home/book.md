@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Governance and Politics of the Netherlands"
+title = "The Oxford Handbook of Dutch Politics"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "2020_gpn.jpg"
+hero_media = "2024_oxford_handbook_of_dutch_politics.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,8 +22,8 @@ hero_media = "2020_gpn.jpg"
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#2b94c3"
-  gradient_start = "#E4863C"
-  gradient_end = "#000000"
+  gradient_start = "#E04586"
+  gradient_end = "#A69D4E"
   
 
   # Background image.
@@ -40,20 +40,20 @@ hero_media = "2020_gpn.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://books.google.nl/books?id=-i93zQEACAAJ"
-  label = "Purchase"
+  url = "https://search.worldcat.org/en/title/1446128307"
+  label = " Get in your library"
   icon_pack = "fas"
   icon = "book"
   
-[cta_alt]
-  url = "http://www.worldcat.org/oclc/1153975182"
-  label = "Loan from your library"
+ [cta_alt]
+   url = "publication/2024-de-lange-louwerse-t-hart-van-ham/"
+   label = "Learn more"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '*"Rich, multifaceted and up-to-date. Highly recommended for students and scholars who want to get acquainted with Dutch democracy."* – Tom van der Meer, University of Amsterdam, the Netherlands'
+  label = 'Use promotion code AUFLY30 to save 30% on purchasing via [Oxford University Press](https://global.oup.com/academic/product/9780198875499)'
 +++
 
-**5th revised edition**
+*Edited by* Sarah de Lange, Tom Louwerse, Paul 't Hart & Carolien van Ham 
 
-Rudy B. Andeweg, Galen A. Irwin & Tom Louwerse
+<p style="line-height: 1; margin-bottom: 20px"><small>Provides a comprehensive overview of all aspects of Dutch political history, key institutions, pivotal processes and public policy dynamics. </small></p>

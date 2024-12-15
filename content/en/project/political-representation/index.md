@@ -3,14 +3,15 @@ date = "2017-07-10"
 show_date = false
 
 # Project title.
-title = "Political Representation: Linking Citizens and Representatives "
+title = "Political Representation"
+subtitle = "Linking Citizens and Representatives"
 
 # Project summary to display on homepage.
 summary = "Are representatives doing what people want?"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["elections", "parliaments", "representation"]
+tags = ["elections", "parliaments", "representation", "active"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""

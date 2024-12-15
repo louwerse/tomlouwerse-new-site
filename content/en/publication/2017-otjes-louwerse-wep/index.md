@@ -11,7 +11,7 @@ doi="10.1080/01402382.2017.1358936"
 url_code = "http://dx.doi.org/10.7910/DVN/RYHXMW"
 url_dataset = "http://dx.doi.org/10.7910/DVN/RYHXMW"
 url_pdf = "http://www.tandfonline.com/doi/pdf/10.1080/01402382.2017.1358936?needAccess=true"
-projects=["parliaments"]
+projects=["parliaments", "dutch-politics"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]

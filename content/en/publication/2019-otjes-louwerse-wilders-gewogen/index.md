@@ -30,6 +30,7 @@ url_dataset: ''
 url_pdf: ''
 projects:
   - parliaments
+  - dutch-politics
 url_slides: ''
 url_video: ''
 links:

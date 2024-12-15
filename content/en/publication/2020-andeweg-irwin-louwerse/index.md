@@ -12,7 +12,7 @@ math: false
 publication: '5th ed. London: Red Globe Press'
 title: Governance and Politics of the Netherlands 
 selected: true
-projects: []
+projects: ['dutch-politics']
 publication_types:
   - '5'
 links:

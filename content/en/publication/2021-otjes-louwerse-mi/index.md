@@ -10,7 +10,7 @@ doi = ""
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-projects= ["parliaments"]
+projects= ["parliaments", "dutch-politics"]
 url_slides = ""
 url_video = ""
 links = [{name="Book website", url="https://www.montesquieu-instituut.nl/id/vlg8gigyqitd/bundel_16_niet_stoffig_toch_terugblik_op"}]

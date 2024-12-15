@@ -6,6 +6,7 @@ math = false
 publication = "*European Journal of Political Research*"
 title = "How political and social constituent traits affect the responsiveness of legislators: A Comparative Field Experiment"
 selected=true
+featured=true
 doi = "10.1111/1475-6765.12688"
 url_code = ""
 url_dataset = ""

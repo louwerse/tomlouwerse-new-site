@@ -10,7 +10,7 @@ doi = "10.1093/oso/9780198868484.003.0013"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-projects=""
+projects= ["dutch-politics"]
 url_slides = ""
 url_video = ""
 links = [{name="Publisher's website", url="https://global.oup.com/academic/product/coalition-governance-in-western-europe-9780198868484?lang=en&cc=gb"}]

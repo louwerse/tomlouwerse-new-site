@@ -13,6 +13,7 @@ publication: 'Studies in Public Choice, vol 9. Springer, Cham'
 title: New Developments in the Study of Coalition Governments 
 doi: 10.1007/978-3-031-69347-2
 selected: true
+featured: true
 projects: []
 publication_types:
   - '5'

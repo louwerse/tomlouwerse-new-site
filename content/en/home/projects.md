@@ -8,10 +8,12 @@ subtitle: Themes and Projects
 content:
   show_date: false
   page_type: project
-  filter_default: 0
+  filter_default: 1
   filter_button:
     - name: All
       tag: '*'
+    - name: Active projects
+      tag: 'active'
     - name: Parliaments
       tag: parliaments
     - name: Elections

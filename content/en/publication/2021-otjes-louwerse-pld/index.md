@@ -10,7 +10,7 @@ doi = "10.1093/oso/9780198849063.003.0029"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-projects=""
+projects= ["parliaments", "dutch-politics"]
 url_slides = ""
 url_video = ""
 links = [{name="Publisher's website", url="https://global.oup.com/academic/product/the-politics-of-legislative-debates-9780198849063?cc=nl&lang=en&"}]

@@ -11,7 +11,7 @@ doi = "10.1080/13572334.2021.1885871"
 url_code = "https://doi.org/10.7910/DVN/38PGFU"
 url_dataset = "https://doi.org/10.7910/DVN/38PGFU"
 url_pdf = "https://www.tandfonline.com/doi/pdf/10.1080/13572334.2021.1885871?needAccess=true"
-projects=["parliaments"]
+projects=["parliaments", "dutch-politics"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]

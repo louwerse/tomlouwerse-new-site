@@ -10,7 +10,7 @@ summary = "Peilingwijzer and the Irish Polling Indicator pool Dutch and Irish op
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["elections", "methodology"]
+tags = ["elections", "methodology", "active"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
