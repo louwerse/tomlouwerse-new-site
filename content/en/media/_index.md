@@ -13,8 +13,15 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
-## 2024
+## 2025
 
+* Van de Ven, Liam & Wouter van Loon (15 January 2025) [Niet NSC maar PVV stemt afwijkend binnen deze coalitie ](https://www.nrc.nl/nieuws/2025/01/15/niet-nsc-maar-pvv-stemt-afwijkend-binnen-deze-coalitie-a4879672), *NRC*.
+
+
+## 2024
+* König, Eppo (24 December 2024) [BBB zit in het centrum van de macht, maar is nog altijd op zoek naar zichzelf](https://www.nrc.nl/nieuws/2024/12/27/bbb-zit-in-het-centrum-van-de-macht-maar-is-nog-altijd-op-zoek-naar-zichzelf-a4877621), *NRC*.
+* *NOS* (14 December 2024) [Peilingwijzer: CDA zet opmars voort, coalitie is meerderheid kwijt](https://nos.nl/artikel/2548247-peilingwijzer-cda-zet-opmars-voort-coalitie-is-meerderheid-kwijt).
+* Starcevic, Steb (15 November 2024) [Amsterdam football violence exposes first cracks in Dutch government](https://www.politico.eu/article/amsterdam-football-violence-ajax-israel-maccabi-tel-aviv-netherlands-government-coalition-geert-wilders-dick-schoof/), *Politico*.
 * Spraakmakers (1 November 2024) [Oxford Handbook of Dutch Politics](https://www.nporadio1.nl/fragmenten/spraakmakers/9d62248c-e133-412a-9551-d9dc2692a871/2024-11-01-oxford-handbooks-of-dutch-politics), *NPO Radio 1*.
 * *NOS* (27 September 2024) [Peilingwijzer: PVV met afstand de grootste, NSC valt ver terug](https://nos.nl/artikel/2538713-peilingwijzer-pvv-met-afstand-de-grootste-nsc-valt-ver-terug).
 * Belgers, Joris (25 October 2024) [De schrik en de onzekerheid slaan toe bij de Democraten](https://www.trouw.nl/buitenland/het-wordt-nu-wel-heel-spannend-voor-de-democraten~b9807f43/), *Trouw*.
