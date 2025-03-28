@@ -15,6 +15,8 @@ Media appearances and mentions:
 
 ## 2025
 
+* *NPO Radio 1 Dit is de Dag* (28 March 2025) [NSC wil regionaal kiesstelsel](https://www.nporadio1.nl/uitzendingen/dit-is-de-dag/9d7a99b1-094a-45b5-9312-f382a4b96bad/2025-03-28-dit-is-de-dag).
+* *NOS* (27 March 2025) [Peilingwijzer: VVD verder omhoog, PVV en BBB zakken weg](https://nos.nl/artikel/2561240-peilingwijzer-vvd-verder-omhoog-pvv-en-bbb-zakken-weg).
 * Van de Ven, Liam & Wouter van Loon (15 January 2025) [Niet NSC maar PVV stemt afwijkend binnen deze coalitie ](https://www.nrc.nl/nieuws/2025/01/15/niet-nsc-maar-pvv-stemt-afwijkend-binnen-deze-coalitie-a4879672), *NRC*.
 
 
