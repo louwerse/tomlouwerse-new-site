@@ -9,6 +9,7 @@ math: false
 publication: 'In: De Lange, S. Louwerse, T.,  ''t Hart, P. & Van Ham, C. (Eds.) *The Oxford Handbook of Dutch Politics*. Oxford University Press, pp. 105-123'
 title: Parliamentary politics in the Netherlands
 doi: 10.1093/oxfordhb/9780198875499.013.7
+url_pdf: https://scholarlypublications.universiteitleiden.nl/access/item%3A4177619/view
 selected: true
 featured: true
 projects: ['parliaments', 'dutch-politics']

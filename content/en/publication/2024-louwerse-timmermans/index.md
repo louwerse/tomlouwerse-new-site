@@ -9,6 +9,7 @@ math: false
 publication: 'In: De Lange, S. Louwerse, T.,  ''t Hart, P. & Van Ham, C. (Eds.) *The Oxford Handbook of Dutch Politics*. Oxford University Press, pp. 475-494'
 title: Managing increased complexity in Dutch coalition politics 
 doi: 10.1093/oxfordhb/9780198875499.013.28
+url_pdf: https://scholarlypublications.universiteitleiden.nl/access/item%3A4177621/view
 selected: true
 featured: true
 projects: ['dutch-politics']
