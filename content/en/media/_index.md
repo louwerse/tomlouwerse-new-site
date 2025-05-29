@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 ## 2025
 
+* Arij Heijboer (10 May 2025) ["Peiling vaak onterecht gepresenteerd als nieuws"](https://www.rd.nl/artikel/1106835-hoogleraar-peiling-wordt-vaak-onterecht-gepresenteerd-als-nieuws), *Reformatorisch Dagblad*.
 * *NPO Radio 1 Dit is de Dag* (28 March 2025) [Is het tijd voor een regionaal kiesstelsel?](https://www.nporadio1.nl/podcasts/dit-is-de-dag/121975/is-het-tijd-voor-een-regionaal-kiesstelsel-28-maart-2025).
 * *NOS* (27 March 2025) [Peilingwijzer: VVD verder omhoog, PVV en BBB zakken weg](https://nos.nl/artikel/2561240-peilingwijzer-vvd-verder-omhoog-pvv-en-bbb-zakken-weg).
 * Van de Ven, Liam & Wouter van Loon (15 January 2025) [Niet NSC maar PVV stemt afwijkend binnen deze coalitie ](https://www.nrc.nl/nieuws/2025/01/15/niet-nsc-maar-pvv-stemt-afwijkend-binnen-deze-coalitie-a4879672), *NRC*.
