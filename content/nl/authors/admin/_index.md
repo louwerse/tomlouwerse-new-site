@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Universitair hoofddocent Politieke Wetenschap, Universiteit Leiden
+bio: Politicoloog, Universiteit Leiden
 
 # Interests to show in About widget
 interests:
@@ -72,10 +72,9 @@ user_groups:
 - Principal Investigators
 ---
 
-Ik ben universitair hoofddocent Politieke Wetenschap aan de [Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/tom-louwerse#tab-1). Ik ben momenteel onderzoeksdirecteur van het [Instituut Polititeke Wetenschap](https://www.universiteitleiden.nl/sociale-wetenschappen/politieke-wetenschap).
+Als politicoloog bestudeer en geef ik onderwijs over verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën. Ik werk aan aan het [Instituut Politieke Wetenschap van de Universiteit Leiden](https://www.universiteitleiden.nl/medewerkers/tom-louwerse#tab-1), waar ik momenteel onderzoeksdirecteur ben. 
 
-
-Mijn onderzoek en onderwijs gaat over verkiezingen, politieke vertegenwoordiging en parlementaire politiek in Nederland en andere gevestigde democratieën. Mijn belangrijkste onderzoeksproject, *Who opposes?*, richt zich op samenwerking tussen regering en oppositie in het parlement en wordt gefinancieerd door een Vidi-subsidie van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO). Ik ben co-auteur van *Governance and Politics of the Netherlands* en co-editor van het *Oxford Handbook of Dutch Politics*, waarvan de publicatie aanstaande is.  
+Mijn belangrijkste onderzoeksproject, *Who opposes?*, richt zich op samenwerking tussen regering en oppositie in het parlement en wordt gefinancieerd door een Vidi-subsidie van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO). Ik ben co-auteur van [*Governance and Politics of the Netherlands*](/publication/2020-andeweg-irwin-louwerse/) en co-editor van het [*Oxford Handbook of Dutch Politics*](/publication/2024-de-lange-louwerse-t-hart-van-ham/), waarvan de publicatie aanstaande is.  
 
 Ik ben de maker van de [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl), een samenvoeging van de verschillende zetelpeilingen voor de Tweede Kamer die regelmatig wordt gepubliceerd in samenwerking met de NOS. Ik [blog](#blogs) zo nu en dan over mijn werk en verschijn regelmatig in diverse nationale en internationale [nieuwsmedia](#media).
  

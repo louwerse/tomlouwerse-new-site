@@ -76,7 +76,6 @@ user_groups:
 - Principal Investigators
 ---
 
-
 As a political scientist I [study](#projects) and [teach](#teaching) on elections, political representation and parliamentary politics in the Netherlands and other established democracies. I work at [the Institute of Political Science at Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands, where I am currently Director of Research.
 
 My main research project, [Who opposes?](project/who-opposes), focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO). I am co-author of [*Governance and Politics of the Netherlands*](/publication/2020-andeweg-irwin-louwerse/) and co-editor of the [*Oxford Handbook of Dutch Politics*](/publication/2024-de-lange-louwerse-t-hart-van-ham/).  
