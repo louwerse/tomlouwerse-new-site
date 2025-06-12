@@ -8,9 +8,9 @@ title = "How political and social constituent traits affect the responsiveness o
 selected=true
 featured=true
 doi = "10.1111/1475-6765.12688"
-url_code = ""
-url_dataset = ""
-url_pdf = ""
+url_code = "https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12688&file=ejpr12688-sup-0002-Replication.zip"
+url_dataset = "https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12688&file=ejpr12688-sup-0002-Replication.zip"
+url_pdf = "https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12688"
 projects=["napre"]
 url_slides = ""
 url_video = ""
