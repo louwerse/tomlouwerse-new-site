@@ -8,7 +8,7 @@ math: false
 publication: 'In: Dumont, P., Grofman, B., Bergman, T. & Louwerse, T. (Eds.) *New Developments in the Study of Coalition Governments*, Springer, Cham, pp. 17-37'
 title: 'Investiture and Removal of Governments: ‘Positive’ and ‘Negative’ Parliamentarism'
 doi: 10.1007/978-3-031-69347-2_2
-url_pdf: https://scholarlypublications.universiteitleiden.nl/handle/1887/4214554
+url_pdf: https://scholarlypublications.universiteitleiden.nl/access/item%3A4178363/download
 selected: true
 featured: true
 projects: ['parliaments']

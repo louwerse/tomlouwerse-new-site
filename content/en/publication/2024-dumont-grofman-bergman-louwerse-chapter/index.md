@@ -11,6 +11,7 @@ math: false
 publication: 'In: Dumont, P., Grofman, B., Bergman, T. & Louwerse, T. (Eds.) *New Developments in the Study of Coalition Governments*, Springer, Cham, pp. 1-16'
 title: 'Introduction: Old Puzzles, Conceptual Vagueness and New Developments in the Study of Coalition Governments'
 doi: 10.1007/978-3-031-69347-2_1
+url_pdf: https://scholarlypublications.universiteitleiden.nl/access/item%3A4214555/view
 selected: false
 projects: []
 publication_types:
