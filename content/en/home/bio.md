@@ -15,7 +15,7 @@ advanced:
   css_class: ''
 ---
 
-I am an [Associate Professor in Political Science](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse) at Leiden University, the Netherlands. My main areas of interest include political representation, parliaments, political parties, elections, polls and voting advice applications.
+I am an [Associate Professor in Political Science](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse) at Leiden University, the Netherlands. My main areas of interest include parliametary politics, political behaviour, political representation, elections, polls and voting advice applications.
 
 {{<figure library="true" src="tom-full.jpg" caption="Foto: Monique Shaw" class="floatright" lightbox="true" numbered="false" style="max-width: 30%; width: auto\9*0.3; height: auto; float: right;	padding: 5px;">}}
 

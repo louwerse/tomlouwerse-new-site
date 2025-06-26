@@ -50,7 +50,7 @@ weight = 5
 
 
 +++
-Ik ben [universitair hoofddocent Politieke Wetenschap](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse) aan de Universiteit Leiden. Mijn belangrijkste aandachtsgebieden zijn politieke vertegenwoordiging, parlementen, politieke partijen, verkiezingen, peilingen en stemhulpen.
+Ik ben [universitair hoofddocent Politieke Wetenschap](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse) aan de Universiteit Leiden. Mijn belangrijkste aandachtsgebieden zijn parlementaire politiek, politiek gedrag, politieke vertegenwoordiging, verkiezingen, peilingen en stemhulpen.
 
 {{<figure library="true" src="tom-full.jpg" caption="Foto: Monique Shaw" class="floatright" lightbox="true" numbered="false" style="max-width: 30%; width: auto\9*0.3; height: auto; float: right;	padding: 5px;">}}
 
