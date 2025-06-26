@@ -19,6 +19,7 @@ bio: Politicoloog, Universiteit Leiden
 # Interests to show in About widget
 interests:
 - Parlementaire politiek
+- Politiek gedrag
 - Politieke vertegenwoordiging
 - Verkiezingen
 - Peilingen

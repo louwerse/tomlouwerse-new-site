@@ -19,7 +19,7 @@ bio: Political Scientist at Leiden University
 # Interests to show in About widget
 interests:
 - Legislative Politics
-- Dutch Politics
+- Political Behaviour
 - Political Representation
 - Elections
 - Opinion Polls
