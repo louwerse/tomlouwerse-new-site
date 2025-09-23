@@ -15,6 +15,11 @@ Media appearances and mentions:
 
 ## 2025
 
+* Boztas, Senay (15 September 2025) [The Dutch are turning against Wilders Are centrists back in favour?](https://unherd.com/2025/09/the-dutch-are-turning-against-wilders/), *UnHerd*.
+* *NOS* (4 September 2025) [Peilingwijzer: VVD zakt verder weg, CDA naast GroenLinks-PvdA](https://nos.nl/collectie/13999/artikel/2581100-peilingwijzer-vvd-zakt-verder-weg-cda-naast-groenlinks-pvda).
+* *HP/De Tijd* (September 2025) [De Stelling: Tussentijdse zetelpeilingen moeten worden verboden](https://www.hpdetijd.nl/politiek/politiek/47386/de-stelling-tussentijdse-zetelpeilingen-moeten-worden-verboden).
+* Lievisse Adriaanse, Mark, Niels Marée & Felix Voogt (24 June 2025) [Vijf jaar regeren met de rem erop: kabinetten steeds langer demissionair](https://www.nrc.nl/nieuws/2025/06/23/vijf-jaar-regeren-met-de-rem-erop-door-lange-demissionaire-perioden-halen-minder-wetten-de-eindstreep-a4897708), *NRC*.
+* Rensbergen, Arno van (4 June 2025) [Q+A: Why the Dutch government collapsed — and why it matters](https://www.theparliamentmagazine.eu/news/article/qa-why-the-dutch-government-collapsed-and-why-it-matters), *The Parliament Magazine*.
 * Arij Heijboer (10 May 2025) ["Peiling vaak onterecht gepresenteerd als nieuws"](https://www.rd.nl/artikel/1106835-hoogleraar-peiling-wordt-vaak-onterecht-gepresenteerd-als-nieuws), *Reformatorisch Dagblad*.
 * *NPO Radio 1 Dit is de Dag* (28 March 2025) [Is het tijd voor een regionaal kiesstelsel?](https://www.nporadio1.nl/podcasts/dit-is-de-dag/121975/is-het-tijd-voor-een-regionaal-kiesstelsel-28-maart-2025).
 * *NOS* (27 March 2025) [Peilingwijzer: VVD verder omhoog, PVV en BBB zakken weg](https://nos.nl/artikel/2561240-peilingwijzer-vvd-verder-omhoog-pvv-en-bbb-zakken-weg).
@@ -22,6 +27,7 @@ Media appearances and mentions:
 
 
 ## 2024
+
 * König, Eppo (24 December 2024) [BBB zit in het centrum van de macht, maar is nog altijd op zoek naar zichzelf](https://www.nrc.nl/nieuws/2024/12/27/bbb-zit-in-het-centrum-van-de-macht-maar-is-nog-altijd-op-zoek-naar-zichzelf-a4877621), *NRC*.
 * *NOS* (14 December 2024) [Peilingwijzer: CDA zet opmars voort, coalitie is meerderheid kwijt](https://nos.nl/artikel/2548247-peilingwijzer-cda-zet-opmars-voort-coalitie-is-meerderheid-kwijt).
 * Starcevic, Steb (15 November 2024) [Amsterdam football violence exposes first cracks in Dutch government](https://www.politico.eu/article/amsterdam-football-violence-ajax-israel-maccabi-tel-aviv-netherlands-government-coalition-geert-wilders-dick-schoof/), *Politico*.
