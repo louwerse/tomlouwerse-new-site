@@ -51,9 +51,11 @@ weight = 60
 
 +++
 
-I am teaching the following courses in the academic year 2024-2005:
+I am teaching the following courses in the academic year 2025-2006:
 
-* [Nationale Politiek I: Nederlands Politiek Bestel](https://studiegids.universiteitleiden.nl/courses/124807/nationale-politiek-i-nederlands-politiek-bestel) (BSc Political Science Leiden, 1st year).
+* [Nationale Politiek I: Nederlands Politiek Bestel](https://studiegids.universiteitleiden.nl/courses/130826/nationale-politiek-i-nederlands-politiek-bestel) (BSc Political Science Leiden, 1st year).
+* [Thesis Seminar Nederlandse Politiek - Spring 2026](https://studiegids.universiteitleiden.nl/courses/130948/thesis-seminar-nederlandse-politiek-spring-2026-september-2025-intake) (MSc Political Science Leiden).
+
 
 For students, course information can be found on [Brightspace](https://brightspace.universiteitleiden.nl).
 

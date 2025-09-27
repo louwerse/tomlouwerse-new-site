@@ -17,17 +17,17 @@ content:
 
     # Contact details (edit or remove options as required)
     email: t.p.louwerse@fsw.leidenuniv.nl
-    phone: +31 71 527 8068
+    phone: ''
     address:
-        street: Wassenaarseweg 52
-        city: 2333 AK  Leiden
+        street: ''
+        city: ''
         region: ''
         postcode: ''
-        country: Nederland
-        country_code: NL
+        country: ''
+        country_code: ''
     coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: ''
+    longitude: ''
     directions: ''
     office_hours: '' 
 
