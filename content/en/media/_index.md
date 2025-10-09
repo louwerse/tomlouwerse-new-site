@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 ## 2025
 
+* NOS (9 October 2025) [Peilingwijzer: PVV duidelijk de grootste, lichte winst D66 en JA21](https://nos.nl/collectie/14002/artikel/2585755-peilingwijzer-pvv-duidelijk-de-grootste-lichte-winst-d66-en-ja21).
 * Staal, Herman (3 October 2025) [Staat echt bijna de helft van de Nederlanders achter de stelling ‘eigen volk eerst’?](https://www.nrc.nl/nieuws/2025/10/03/staat-echt-bijna-de-helft-van-de-nederlanders-achter-de-stelling-eigen-volk-eerst-a4908345), *NRC*.
 * Boztas, Senay (15 September 2025) [The Dutch are turning against Wilders Are centrists back in favour?](https://unherd.com/2025/09/the-dutch-are-turning-against-wilders/), *UnHerd*.
 * *NOS* (4 September 2025) [Peilingwijzer: VVD zakt verder weg, CDA naast GroenLinks-PvdA](https://nos.nl/collectie/13999/artikel/2581100-peilingwijzer-vvd-zakt-verder-weg-cda-naast-groenlinks-pvda).
