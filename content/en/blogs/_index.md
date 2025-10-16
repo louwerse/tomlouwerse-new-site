@@ -11,6 +11,11 @@ highlight = false
 
 +++
 
+### 2025
+
+Louwerse, Tom (2025) [Uitspreken coalitievoorkeuren staat ver af van volwaardig stembusakkoord](https://www.montesquieu-instituut.nl/id/vmrh7qaxcrrz/nieuws/uitspreken_coalitievoorkeuren_staat_ver), *De Hofvijver*, vol. 15, 13 October.
+
+
 ### 2023
 
 Louwerse, Tom and Joop van Holsteyn (2023) [Vraag niet aan de kiezer wat hij zou stemmen, maar wat hij wíl](https://www.nrc.nl/nieuws/2023/12/22/vraag-niet-aan-de-kiezer-wat-hij-zou-stemmen-maar-wat-hij-wil-a4185117?t=1709584571), *NRC*, 22 December.
