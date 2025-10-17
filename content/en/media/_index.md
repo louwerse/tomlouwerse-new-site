@@ -17,6 +17,7 @@ Media appearances and mentions:
 
 
 * Chaudron, Casper (17 October 2025)  [Tom Louwerse, de maker van de Peilingwijzer: ’Je moet peilingen niet gaan lopen hypen op dingen die ze niet kunnen’](https://www.leidschdagblad.nl/uitgelicht/tom-louwerse-de-maker-van-de-peilingwijzer-je-moet-peilingen-niet-gaan-lopen-hypen-op-dingen-die-ze-niet-kunnen/97745137.html), *Leidsch Dagblad*.
+* *NOS* (17 October 2025) [Peilingwijzer: groei D66 zet door, veel kiezers zweven nog](https://nos.nl/artikel/2586741-peilingwijzer-groei-d66-zet-door-veel-kiezers-zweven-nog).
 * Visser, Jayson (15 October 2025) [Hoe betrouwbaar zijn politieke peilingen? Expert aan het woord](https://www.ewmagazine.nl/politiek/blog/2025/10/peilingen-peilingwijzer-tweede-kamerverkiezingen-1506875/), *EW Magazine*.
 * Van de Ven, Liam (10 October 2025) [De verkiezingsprogramma’s zijn doorgerekend. Nu kan het inhoudelijke debat beginnen](https://www.nrc.nl/nieuws/2025/10/10/de-verkiezingsprogrammas-zijn-doorgerekend-nu-kan-het-inhoudelijke-debat-beginnen-a4909137), *NRC*.
 * NOS (9 October 2025) [Peilingwijzer: PVV duidelijk de grootste, lichte winst D66 en JA21](https://nos.nl/collectie/14002/artikel/2585755-peilingwijzer-pvv-duidelijk-de-grootste-lichte-winst-d66-en-ja21).
