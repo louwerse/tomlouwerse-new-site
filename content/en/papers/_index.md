@@ -7,6 +7,13 @@ highlight = false
 
 +++
 
+### 2025
+
+Zorina, E. & Louwerse, T. (2025) Voters Prefer Parties that Cooperate Across the Government-Opposition Divide in Parliament. Paper presented at the ECPR Standing Group on Parliaments Conference, Barcelona, 2-4 July.
+
+Well, R. van & Louwerse, T. (2025) (Mis)perceptions of Opposition Behaviour in Parliament. Paper presented at the ECPR Standing Group on Parliaments Conference, Barcelona, 2-4 July.
+
+
 ### 2024
 
 Louwerse, T. (2024) The Netherlands – The Increasing Use of Portfolio Reform in Complex Coalition Formation. Paper presented at Workshop The Politics of Portfolio Design in European Democracies, Vienna, 19-20 June.
