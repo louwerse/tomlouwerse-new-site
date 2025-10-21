@@ -15,12 +15,15 @@ Media appearances and mentions:
 
 ## 2025
 
-
+* *NOS* (21 October 2025) [‘Peilingwijzer: stilstand ruim een week voor verkiezingen’](https://nos.nl/collectie/14002/liveblog/2587124-universiteit-utrecht-verplaatst-debat-geen-grote-verschuivingen-in-peilingwijzer#UPDATE-89662130).
+* Van Waarden, Rick (October 2025) [Blijven we kortzichtig op de lange termijn?](https://vng.nl/magazines/vng-magazine-nummer-12-2025), *VNG Magazine*, oktober 2025, pp. 18-24.
+* Schultz, Marwin (20 October 2025) [Wikken en wegen voor zwevende kiezers](https://www.rd.nl/artikel/1124642-voor-menig-sgper-ondenkbaar-veel-kiezers-bepalen-vlak-voor-verkiezingen-hun-stem-hoe-komt-dat), *Reformatorisch Dagblad*.
+* *NPO Radio 1* (18 October 2025) [dr Kelder en Co - 18 okt - peilingen, democratie en studentenwoningen](https://www.nporadio1.nl/podcasts/de-jortcast/131955/dr-kelder-en-co-18-okt-peilingen-democratie-en-studentenwoningen).
 * Chaudron, Casper (17 October 2025)  [Tom Louwerse, de maker van de Peilingwijzer: ’Je moet peilingen niet gaan lopen hypen op dingen die ze niet kunnen’](https://www.leidschdagblad.nl/uitgelicht/tom-louwerse-de-maker-van-de-peilingwijzer-je-moet-peilingen-niet-gaan-lopen-hypen-op-dingen-die-ze-niet-kunnen/97745137.html), *Leidsch Dagblad*.
 * *NOS* (17 October 2025) [Peilingwijzer: groei D66 zet door, veel kiezers zweven nog](https://nos.nl/artikel/2586741-peilingwijzer-groei-d66-zet-door-veel-kiezers-zweven-nog).
 * Visser, Jayson (15 October 2025) [Hoe betrouwbaar zijn politieke peilingen? Expert aan het woord](https://www.ewmagazine.nl/politiek/blog/2025/10/peilingen-peilingwijzer-tweede-kamerverkiezingen-1506875/), *EW Magazine*.
 * Van de Ven, Liam (10 October 2025) [De verkiezingsprogramma’s zijn doorgerekend. Nu kan het inhoudelijke debat beginnen](https://www.nrc.nl/nieuws/2025/10/10/de-verkiezingsprogrammas-zijn-doorgerekend-nu-kan-het-inhoudelijke-debat-beginnen-a4909137), *NRC*.
-* NOS (9 October 2025) [Peilingwijzer: PVV duidelijk de grootste, lichte winst D66 en JA21](https://nos.nl/collectie/14002/artikel/2585755-peilingwijzer-pvv-duidelijk-de-grootste-lichte-winst-d66-en-ja21).
+* *NOS* (9 October 2025) [Peilingwijzer: PVV duidelijk de grootste, lichte winst D66 en JA21](https://nos.nl/collectie/14002/artikel/2585755-peilingwijzer-pvv-duidelijk-de-grootste-lichte-winst-d66-en-ja21).
 * Staal, Herman (3 October 2025) [Staat echt bijna de helft van de Nederlanders achter de stelling ‘eigen volk eerst’?](https://www.nrc.nl/nieuws/2025/10/03/staat-echt-bijna-de-helft-van-de-nederlanders-achter-de-stelling-eigen-volk-eerst-a4908345), *NRC*.
 * Boztas, Senay (15 September 2025) [The Dutch are turning against Wilders Are centrists back in favour?](https://unherd.com/2025/09/the-dutch-are-turning-against-wilders/), *UnHerd*.
 * *NOS* (4 September 2025) [Peilingwijzer: VVD zakt verder weg, CDA naast GroenLinks-PvdA](https://nos.nl/collectie/13999/artikel/2581100-peilingwijzer-vvd-zakt-verder-weg-cda-naast-groenlinks-pvda).
