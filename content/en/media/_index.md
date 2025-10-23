@@ -15,7 +15,11 @@ Media appearances and mentions:
 
 ## 2025
 
+
+* *BNR* (22 October 2025) [Vooral strategische stemmers fixeren op peilingen, maar een verbod is niet zonder risico’s](https://www.bnr.nl/nieuws/nieuws-politiek/10585900/vooral-strategische-stemmers-fixeren-op-peilingen-maar-een-verbod-is-niet-zonder-risicos).
+* *BNNVARA* (22 October 2025) [Strategisch stemmen: wat is het? En heeft het zin?](https://www.bnnvara.nl/artikelen/strategisch-stemmen-wat-is-het-en-heeft-het-zin).
 * *NOS* (21 October 2025) [‘Peilingwijzer: stilstand ruim een week voor verkiezingen’](https://nos.nl/collectie/14002/liveblog/2587124-universiteit-utrecht-verplaatst-debat-geen-grote-verschuivingen-in-peilingwijzer#UPDATE-89662130).
+* *Jortcast* (21 October 2025) [#976 - Het thema van de verkiezingen](https://www.nporadio1.nl/podcasts/de-jortcast/132123/976-het-thema-van-de-verkiezingen).
 * Van Waarden, Rick (October 2025) [Blijven we kortzichtig op de lange termijn?](https://vng.nl/magazines/vng-magazine-nummer-12-2025), *VNG Magazine*, oktober 2025, pp. 18-24.
 * Schultz, Marwin (20 October 2025) [Wikken en wegen voor zwevende kiezers](https://www.rd.nl/artikel/1124642-voor-menig-sgper-ondenkbaar-veel-kiezers-bepalen-vlak-voor-verkiezingen-hun-stem-hoe-komt-dat), *Reformatorisch Dagblad*.
 * *NPO Radio 1* (18 October 2025) [dr Kelder en Co - 18 okt - peilingen, democratie en studentenwoningen](https://www.nporadio1.nl/podcasts/de-jortcast/131955/dr-kelder-en-co-18-okt-peilingen-democratie-en-studentenwoningen).
