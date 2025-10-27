@@ -15,9 +15,13 @@ Media appearances and mentions:
 
 ## 2025
 
-
+* van Mersbergen, Chris (26 October 2025) [Paar zetels stijging en ‘plots wordt Jetten gehypet’: peilingen zorgen voor steeds meer ergernis](https://www.ad.nl/politiek/paar-zetels-stijging-en-plots-wordt-jetten-gehypet-peilingen-zorgen-voor-steeds-meer-ergernis~a67be1e9/), *Algemeen Dagblad*.
+* *NOS* (25 October 2025) [Peilingwijzer: grote partijen kruipen naar elkaar toe](https://nos.nl/collectie/14002/artikel/2587869-peilingwijzer-grote-partijen-kruipen-naar-elkaar-toe).
+* Doppen, Floor (24 October 2025) ['Zwevende kiezer? Dit is wat de peilingen je niet vertellen'](https://www.linda.nl/nieuws/politiek/floor-doppen-politiek-verkiezingen-zwevende-kiezer-peilingen/), *LINDA*.
+* *NU.nl* (24 October 2025) [Twijfelaars en strategische stemmers: peilingen zijn nog geen uitslag](https://www.nu.nl/320966/video/twijfelaars-en-strategische-stemmers-peilingen-zijn-nog-geen-uitslag.html)
 * *BNR* (22 October 2025) [Vooral strategische stemmers fixeren op peilingen, maar een verbod is niet zonder risico’s](https://www.bnr.nl/nieuws/nieuws-politiek/10585900/vooral-strategische-stemmers-fixeren-op-peilingen-maar-een-verbod-is-niet-zonder-risicos).
 * *BNNVARA* (22 October 2025) [Strategisch stemmen: wat is het? En heeft het zin?](https://www.bnnvara.nl/artikelen/strategisch-stemmen-wat-is-het-en-heeft-het-zin).
+* *Rewindhuman* (21 October 2025) [Wat is de invloed van peilingnieuws op de kiezer?](https://www.instagram.com/p/DQE5yfjDFCx/). 
 * *NOS* (21 October 2025) [‘Peilingwijzer: stilstand ruim een week voor verkiezingen’](https://nos.nl/collectie/14002/liveblog/2587124-universiteit-utrecht-verplaatst-debat-geen-grote-verschuivingen-in-peilingwijzer#UPDATE-89662130).
 * *Jortcast* (21 October 2025) [#976 - Het thema van de verkiezingen](https://www.nporadio1.nl/podcasts/de-jortcast/132123/976-het-thema-van-de-verkiezingen).
 * Van Waarden, Rick (October 2025) [Blijven we kortzichtig op de lange termijn?](https://vng.nl/magazines/vng-magazine-nummer-12-2025), *VNG Magazine*, oktober 2025, pp. 18-24.
