@@ -15,6 +15,9 @@ Media appearances and mentions:
 
 ## 2025
 
+* *NOS* (28 October 2025) [Laatste Peilingwijzer: grote partijen houden elkaar in evenwicht](https://nos.nl/collectie/14002/artikel/2588269-laatste-peilingwijzer-grote-partijen-houden-elkaar-in-evenwicht).
+* Loenhout, Fenna van (28 October 2025) [Houd dit in je achterhoofd als vanmiddag de slotpeilingen verschijnen](https://www.nu.nl/tweede-kamerverkiezingen/6373890/houd-dit-in-je-achterhoofd-als-vanmiddag-de-slotpeilingen-verschijnen.html), *NU.nl*.
+* Cobben, Ingrid en Ivo Kok (27 October 2025) [Ondanks mitsen en maren komen peilingen vaak een heel eind in de buurt van de uitslag, al is er altijd wel een grote verrassing](https://www.limburger.nl/politiek/ondanks-mitsen-en-maren-komen-peilingen-vaak-een-heel-eind-in-de-buurt-van-de-uitslag-al-is-er-altijd-wel-een-grote-verrassing/100382095.html), *De Limburger*.
 * van Mersbergen, Chris (26 October 2025) [Paar zetels stijging en ‘plots wordt Jetten gehypet’: peilingen zorgen voor steeds meer ergernis](https://www.ad.nl/politiek/paar-zetels-stijging-en-plots-wordt-jetten-gehypet-peilingen-zorgen-voor-steeds-meer-ergernis~a67be1e9/), *Algemeen Dagblad*.
 * *NOS* (25 October 2025) [Peilingwijzer: grote partijen kruipen naar elkaar toe](https://nos.nl/collectie/14002/artikel/2587869-peilingwijzer-grote-partijen-kruipen-naar-elkaar-toe).
 * Doppen, Floor (24 October 2025) ['Zwevende kiezer? Dit is wat de peilingen je niet vertellen'](https://www.linda.nl/nieuws/politiek/floor-doppen-politiek-verkiezingen-zwevende-kiezer-peilingen/), *LINDA*.
