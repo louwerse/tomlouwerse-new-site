@@ -15,6 +15,12 @@ Media appearances and mentions:
 
 ## 2025
 
+* Seckel, Timm (30 October 2025) [Sind „linke Patrioten“ das Mittel gegen Rechtspopulismus?](https://www.handelsblatt.com/politik/international/niederlande-sind-linke-patrioten-das-mittel-gegen-rechtspopulismus/100169815.html), *Handelsblatt*.
+* Vidueiro, David (30 October 2025) [El triunfo del centro y del optimismo dan paso a un rompecabezas para formar Gobierno en Países Bajos](https://www.rtve.es/noticias/20251030/elecciones-paises-bajos-triunfo-centro-rompecabezas-formar-gobierno/16794072.shtml), *RTVE*.
+* Hardy, Eloise (30 October 2025) [The Netherlands turns the page on far-right rule, and migration fury](https://www.theparliamentmagazine.eu/news/article/the-netherlands-turns-the-page-on-farright-rule-and-migration-fury), *The Parliament Magazine*.
+* Anna Buj (29 October 2025) [Vivienda y migración, el cóctel Wilders para imponerse en Países Bajos](https://www.lavanguardia.com/internacional/20251029/11207316/vivienda-migracion-coctel-wilders.html), *La Vanguardia*.
+* *Financieel Dagblad* (28 October 2025) [Plots ligt de strijd om de grootste partij te worden helemaal open](https://fd.nl/politiek/1575496/plots-ligt-de-strijd-om-de-grootste-partij-te-worden-helemaal-open)
+* *EFE* (28 October 2025) [Tres partidos empatados y millones de indecisos la víspera de los comicios en Países Bajos](https://www.swissinfo.ch/spa/tres-partidos-empatados-y-millones-de-indecisos-la-v%C3%ADspera-de-los-comicios-en-pa%C3%ADses-bajos/90241069).
 * *NOS* (28 October 2025) [Laatste Peilingwijzer: grote partijen houden elkaar in evenwicht](https://nos.nl/collectie/14002/artikel/2588269-laatste-peilingwijzer-grote-partijen-houden-elkaar-in-evenwicht).
 * Loenhout, Fenna van (28 October 2025) [Houd dit in je achterhoofd als vanmiddag de slotpeilingen verschijnen](https://www.nu.nl/tweede-kamerverkiezingen/6373890/houd-dit-in-je-achterhoofd-als-vanmiddag-de-slotpeilingen-verschijnen.html), *NU.nl*.
 * Cobben, Ingrid en Ivo Kok (27 October 2025) [Ondanks mitsen en maren komen peilingen vaak een heel eind in de buurt van de uitslag, al is er altijd wel een grote verrassing](https://www.limburger.nl/politiek/ondanks-mitsen-en-maren-komen-peilingen-vaak-een-heel-eind-in-de-buurt-van-de-uitslag-al-is-er-altijd-wel-een-grote-verrassing/100382095.html), *De Limburger*.
