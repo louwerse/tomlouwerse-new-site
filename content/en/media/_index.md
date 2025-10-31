@@ -15,7 +15,8 @@ Media appearances and mentions:
 
 ## 2025
 
-* Seckel, Timm (30 October 2025) [Sind „linke Patrioten“ das Mittel gegen Rechtspopulismus?](https://www.handelsblatt.com/politik/international/niederlande-sind-linke-patrioten-das-mittel-gegen-rechtspopulismus/100169815.html), *Handelsblatt*.
+* Hoogerwerf, Margot (31 October 2025) [Al eerder onderhandelen?](https://avrotros.dmd.omroep.nl/x/plugin/?pName=last_mailing&MIDRID=S7Y1MwEAA39&pLang=nl&Z=1570069017), *EenVandaag nieuwsbrief*.
+* Seckel, Timm (30 October 2025) [Sind „linke Patrioten“ das Mittel gegen Rechtspopulismus?](https://www.handelsblatt.com/politik/international/,niederlande-sind-linke-patrioten-das-mittel-gegen-rechtspopulismus/100169815.html), *Handelsblatt*.
 * Vidueiro, David (30 October 2025) [El triunfo del centro y del optimismo dan paso a un rompecabezas para formar Gobierno en Países Bajos](https://www.rtve.es/noticias/20251030/elecciones-paises-bajos-triunfo-centro-rompecabezas-formar-gobierno/16794072.shtml), *RTVE*.
 * Hardy, Eloise (30 October 2025) [The Netherlands turns the page on far-right rule, and migration fury](https://www.theparliamentmagazine.eu/news/article/the-netherlands-turns-the-page-on-farright-rule-and-migration-fury), *The Parliament Magazine*.
 * Anna Buj (29 October 2025) [Vivienda y migración, el cóctel Wilders para imponerse en Países Bajos](https://www.lavanguardia.com/internacional/20251029/11207316/vivienda-migracion-coctel-wilders.html), *La Vanguardia*.
