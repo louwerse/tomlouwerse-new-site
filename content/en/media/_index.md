@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 ## 2025
 
+* SPILCast (20 November 2025) [The Importance of Polls: A conversation with Dr. Louwerse (SPILcast 25-26 no.2)](https://open.spotify.com/episode/2ow3AXF9as5gbrrsa94Uu9) (recorded 10 November 2025).
 * Hoogerwerf, Margot (31 October 2025) [Al eerder onderhandelen?](https://avrotros.dmd.omroep.nl/x/plugin/?pName=last_mailing&MIDRID=S7Y1MwEAA39&pLang=nl&Z=1570069017), *EenVandaag nieuwsbrief*.
 * Seckel, Timm (30 October 2025) [Sind „linke Patrioten“ das Mittel gegen Rechtspopulismus?](https://www.handelsblatt.com/politik/international/,niederlande-sind-linke-patrioten-das-mittel-gegen-rechtspopulismus/100169815.html), *Handelsblatt*.
 * Didelot, Nelly (30 October 2025) [Elections législatives aux Pays-Bas : les libéraux rebondissent, l'extrême droite résiste](https://www.liberation.fr/international/europe/elections-legislatives-aux-pays-bas-les-liberaux-rebondissent-lextreme-droite-resiste-20251030_34QWRUXVNFCQ5NDMP4VENP3AOY/), *Libération*.
