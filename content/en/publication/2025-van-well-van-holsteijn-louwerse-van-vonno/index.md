@@ -8,7 +8,7 @@ authors:
   - Cynthia van Vonno
 date: '2025-12-03'
 math: false
-publication: 'Technical report. '
+publication: 'Leiden: Universiteit Leiden'
 title: Van overvloed naar inzicht? 
 subtitle: Perspectieven van Tweede Kamerleden op informatiegebruik en informatiebehoefte
 selected: true
